@@ -1,0 +1,356 @@
+[
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2",
+            "1"
+        ],
+        "full responses": "['Room 8', 'Room 6', 'Room 4', 'Room 2', 'Room 1']",
+        "stripped response": [
+            "['Room 8'",
+            " 'Room 6'",
+            " 'Room 4'",
+            " 'Room 2'",
+            " 'Room 1']"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2",
+            "1"
+        ],
+        "full responses": "8, 6, 4, 2, 1",
+        "stripped response": [
+            "8",
+            " 6",
+            " 4",
+            " 2",
+            " 1"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2",
+            "1"
+        ],
+        "full responses": "['8', '6', '4', '2', '1']",
+        "stripped response": [
+            "['8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2",
+            "1"
+        ],
+        "full responses": "['8', '6', '4', '2', '1']",
+        "stripped response": [
+            "['8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2",
+            "1"
+        ],
+        "full responses": "['Room 8', 'Room 6', 'Room 4', 'Room 2', 'Room 1']",
+        "stripped response": [
+            "['Room 8'",
+            " 'Room 6'",
+            " 'Room 4'",
+            " 'Room 2'",
+            " 'Room 1']"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "10, 8, 6, 4, 2, 1, 3",
+        "stripped response": [
+            "10",
+            " 8",
+            " 6",
+            " 4",
+            " 2",
+            " 1",
+            " 3"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "['10', '8', '6', '4', '2', '1', '3']",
+        "stripped response": [
+            "['10'",
+            " '8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1'",
+            " '3']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "['10', '8', '6', '4', '2', '1', '3']",
+        "stripped response": [
+            "['10'",
+            " '8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1'",
+            " '3']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "[10, 8, 6, 4, 2, 1, 3]",
+        "stripped response": [
+            "[10",
+            " 8",
+            " 6",
+            " 4",
+            " 2",
+            " 1",
+            " 3]"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "10, 8, 6, 4, 2, 1, 3",
+        "stripped response": [
+            "10",
+            " 8",
+            " 6",
+            " 4",
+            " 2",
+            " 1",
+            " 3"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "['10', '8', '6', '4', '2', '1', '3']",
+        "stripped response": [
+            "['10'",
+            " '8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1'",
+            " '3']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "['10', '8', '6', '4', '2', '1', '3']",
+        "stripped response": [
+            "['10'",
+            " '8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1'",
+            " '3']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "[10, 8, 6, 4, 2, 1, 3]",
+        "stripped response": [
+            "[10",
+            " 8",
+            " 6",
+            " 4",
+            " 2",
+            " 1",
+            " 3]"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "10, 8, 6, 4, 2, 1, 3",
+        "stripped response": [
+            "10",
+            " 8",
+            " 6",
+            " 4",
+            " 2",
+            " 1",
+            " 3"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "['10', '8', '6', '4', '2', '1', '3']",
+        "stripped response": [
+            "['10'",
+            " '8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1'",
+            " '3']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "['10', '8', '6', '4', '2', '1', '3']",
+        "stripped response": [
+            "['10'",
+            " '8'",
+            " '6'",
+            " '4'",
+            " '2'",
+            " '1'",
+            " '3']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "10",
+            "8",
+            "6",
+            "4",
+            "2",
+            "1",
+            "3"
+        ],
+        "full responses": "['Room 10', 'Room 8', 'Room 6', 'Room 4', 'Room 2', 'Room 1', 'Room 3']",
+        "stripped response": [
+            "['Room 10'",
+            " 'Room 8'",
+            " 'Room 6'",
+            " 'Room 4'",
+            " 'Room 2'",
+            " 'Room 1'",
+            " 'Room 3']"
+        ]
+    }
+]
