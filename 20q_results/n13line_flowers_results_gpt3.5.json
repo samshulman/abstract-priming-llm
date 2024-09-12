@@ -1,0 +1,1804 @@
+[
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "Peony, Sunflower, Tulip, Rose, Lavender, Daffodil",
+        "stripped response": [
+            "Peony",
+            " Sunflower",
+            " Tulip",
+            " Rose",
+            " Lavender",
+            " Daffodil"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "Daisy, Geranium, Daffodil, Lavender, Rose, Tulip, Sunflower, Peony, Carnation, Orchid, Poppy, Iris",
+        "stripped response": [
+            "Daisy",
+            " Geranium",
+            " Daffodil",
+            " Lavender",
+            " Rose",
+            " Tulip",
+            " Sunflower",
+            " Peony",
+            " Carnation",
+            " Orchid",
+            " Poppy",
+            " Iris"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "Geranium, Daisy, Iris",
+        "stripped response": [
+            "Geranium",
+            " Daisy",
+            " Iris"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "carnation, peony, sunflower, tulip, rose, lavender, daffodil, geranium, daisy, iris",
+        "stripped response": [
+            "carnation",
+            " peony",
+            " sunflower",
+            " tulip",
+            " rose",
+            " lavender",
+            " daffodil",
+            " geranium",
+            " daisy",
+            " iris"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Marigold",
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony"
+        ],
+        "full responses": "Marigold, Iris, Daisy, Geranium, Daffodil, Lavender, Rose, Tulip, Sunflower, Peony",
+        "stripped response": [
+            "Marigold",
+            " Iris",
+            " Daisy",
+            " Geranium",
+            " Daffodil",
+            " Lavender",
+            " Rose",
+            " Tulip",
+            " Sunflower",
+            " Peony"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony",
+            "Carnation",
+            "Orchid",
+            "Poppy"
+        ],
+        "full responses": "Geranium, Daffodil, Lavender, Rose, Tulip, Sunflower, Peony, Carnation, Orchid, Poppy",
+        "stripped response": [
+            "Geranium",
+            " Daffodil",
+            " Lavender",
+            " Rose",
+            " Tulip",
+            " Sunflower",
+            " Peony",
+            " Carnation",
+            " Orchid",
+            " Poppy"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Sunflower",
+            "Peony",
+            "Carnation"
+        ],
+        "full responses": "Sunflower, Tulip, Rose, Lavender, Daffodil, Geranium, Daisy, Iris, Marigold, Carnation",
+        "stripped response": [
+            "Sunflower",
+            " Tulip",
+            " Rose",
+            " Lavender",
+            " Daffodil",
+            " Geranium",
+            " Daisy",
+            " Iris",
+            " Marigold",
+            " Carnation"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy"
+        ],
+        "full responses": "carnation, peony, sunflower, tulip, rose, lavender, daffodil, geranium, daisy",
+        "stripped response": [
+            "carnation",
+            " peony",
+            " sunflower",
+            " tulip",
+            " rose",
+            " lavender",
+            " daffodil",
+            " geranium",
+            " daisy"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "Orchid, Carnation, Peony, Sunflower, Tulip, Rose, Lavender, Daffodil, Geranium",
+        "stripped response": [
+            "Orchid",
+            " Carnation",
+            " Peony",
+            " Sunflower",
+            " Tulip",
+            " Rose",
+            " Lavender",
+            " Daffodil",
+            " Geranium"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "Rose, lavender, daffodil",
+        "stripped response": [
+            "Rose",
+            " lavender",
+            " daffodil"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "Rose, Tulip, Sunflower, Peony, Carnation, Orchid, Poppy, Iris",
+        "stripped response": [
+            "Rose",
+            " Tulip",
+            " Sunflower",
+            " Peony",
+            " Carnation",
+            " Orchid",
+            " Poppy",
+            " Iris"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Poppy",
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose"
+        ],
+        "full responses": "Poppy, Orchid, Carnation, Peony, Sunflower, Tulip, Rose",
+        "stripped response": [
+            "Poppy",
+            " Orchid",
+            " Carnation",
+            " Peony",
+            " Sunflower",
+            " Tulip",
+            " Rose"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris",
+            "Marigold"
+        ],
+        "full responses": "carnation, peony, sunflower, tulip, rose, lavender, daffodil, geranium, daisy, iris, marigold",
+        "stripped response": [
+            "carnation",
+            " peony",
+            " sunflower",
+            " tulip",
+            " rose",
+            " lavender",
+            " daffodil",
+            " geranium",
+            " daisy",
+            " iris",
+            " marigold"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "carnation, peony, sunflower, tulip, rose, lavender, daffodil",
+        "stripped response": [
+            "carnation",
+            " peony",
+            " sunflower",
+            " tulip",
+            " rose",
+            " lavender",
+            " daffodil"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip"
+        ],
+        "full responses": "Daisy, Geranium, Daffodil, Lavender, Rose, Tulip",
+        "stripped response": [
+            "Daisy",
+            " Geranium",
+            " Daffodil",
+            " Lavender",
+            " Rose",
+            " Tulip"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "Rose, Tulip, Sunflower, Peony, Carnation, Orchid, Poppy, Geranium",
+        "stripped response": [
+            "Rose",
+            " Tulip",
+            " Sunflower",
+            " Peony",
+            " Carnation",
+            " Orchid",
+            " Poppy",
+            " Geranium"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "carnation, peony, sunflower, tulip, rose, lavender, daffodil, geranium",
+        "stripped response": [
+            "carnation",
+            " peony",
+            " sunflower",
+            " tulip",
+            " rose",
+            " lavender",
+            " daffodil",
+            " geranium"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower"
+        ],
+        "full responses": "Orchid, Carnation, Peony, Sunflower",
+        "stripped response": [
+            "Orchid",
+            " Carnation",
+            " Peony",
+            " Sunflower"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender"
+        ],
+        "full responses": "Iris, Daisy, Geranium, Daffodil, Lavender",
+        "stripped response": [
+            "Iris",
+            " Daisy",
+            " Geranium",
+            " Daffodil",
+            " Lavender"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "Orchid, Carnation, Peony, Sunflower, Tulip, Rose, Lavender, Daffodil, Geranium, Daisy, Iris",
+        "stripped response": [
+            "Orchid",
+            " Carnation",
+            " Peony",
+            " Sunflower",
+            " Tulip",
+            " Rose",
+            " Lavender",
+            " Daffodil",
+            " Geranium",
+            " Daisy",
+            " Iris"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil']",
+        "stripped response": [
+            "['Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Daisy', 'Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Poppy', 'Iris']",
+        "stripped response": [
+            "['Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Poppy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Marigold",
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony"
+        ],
+        "full responses": "['Marigold', 'Iris', 'Daisy', 'Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony']",
+        "stripped response": [
+            "['Marigold'",
+            " 'Iris'",
+            " 'Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony",
+            "Carnation",
+            "Orchid",
+            "Poppy"
+        ],
+        "full responses": "['Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Poppy']",
+        "stripped response": [
+            "['Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Poppy']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Sunflower",
+            "Peony",
+            "Carnation"
+        ],
+        "full responses": "['Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris', 'Marigold', 'Carnation']",
+        "stripped response": [
+            "['Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris'",
+            " 'Marigold'",
+            " 'Carnation']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['Rose', 'Lavender', 'Daffodil']",
+        "stripped response": [
+            "['Rose'",
+            " 'Lavender'",
+            " 'Daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Poppy', 'Orchid', 'Iris']",
+        "stripped response": [
+            "['Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Poppy'",
+            " 'Orchid'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Poppy",
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose"
+        ],
+        "full responses": "['Poppy', 'Orchid', 'Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose']",
+        "stripped response": [
+            "['Poppy'",
+            " 'Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris",
+            "Marigold"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris', 'Marigold']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris'",
+            " 'Marigold']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip"
+        ],
+        "full responses": "['Daisy', 'Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip']",
+        "stripped response": [
+            "['Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Geranium']",
+        "stripped response": [
+            "['Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender"
+        ],
+        "full responses": "['Iris', 'Daisy', 'Geranium', 'Daffodil', 'Lavender']",
+        "stripped response": [
+            "['Iris'",
+            " 'Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil']",
+        "stripped response": [
+            "['Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Daisy', 'Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Poppy', 'Iris']",
+        "stripped response": [
+            "['Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Poppy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Geranium', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Geranium'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Marigold",
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony"
+        ],
+        "full responses": "['Marigold', 'Iris', 'Daisy', 'Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony']",
+        "stripped response": [
+            "['Marigold'",
+            " 'Iris'",
+            " 'Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony",
+            "Carnation",
+            "Orchid",
+            "Poppy"
+        ],
+        "full responses": "['Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Poppy']",
+        "stripped response": [
+            "['Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Poppy']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Sunflower",
+            "Peony",
+            "Carnation"
+        ],
+        "full responses": "['Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Carnation']",
+        "stripped response": [
+            "['Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Carnation']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Poppy', 'Daffodil']",
+        "stripped response": [
+            "['Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Poppy'",
+            " 'Daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Poppy",
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose"
+        ],
+        "full responses": "['Poppy', 'Orchid', 'Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose']",
+        "stripped response": [
+            "['Poppy'",
+            " 'Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris",
+            "Marigold"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris', 'Marigold']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris'",
+            " 'Marigold']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip"
+        ],
+        "full responses": "['Daisy', 'Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip']",
+        "stripped response": [
+            "['Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Rose', 'Lavender', 'Daffodil', 'Geranium']",
+        "stripped response": [
+            "['Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender"
+        ],
+        "full responses": "['Iris', 'Daisy', 'Geranium', 'Daffodil', 'Lavender']",
+        "stripped response": [
+            "['Iris'",
+            " 'Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['peony', 'sunflower', 'tulip', 'rose', 'lavender', 'daffodil']",
+        "stripped response": [
+            "['peony'",
+            " 'sunflower'",
+            " 'tulip'",
+            " 'rose'",
+            " 'lavender'",
+            " 'daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['daisy', 'geranium', 'daisy', 'iris']",
+        "stripped response": [
+            "['daisy'",
+            " 'geranium'",
+            " 'daisy'",
+            " 'iris']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['Geranium', 'Daisy', 'Iris']",
+        "stripped response": [
+            "['Geranium'",
+            " 'Daisy'",
+            " 'Iris']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['carnation', 'peony', 'sunflower', 'tulip', 'rose', 'lavender', 'daffodil', 'geranium', 'daisy', 'iris']",
+        "stripped response": [
+            "['carnation'",
+            " 'peony'",
+            " 'sunflower'",
+            " 'tulip'",
+            " 'rose'",
+            " 'lavender'",
+            " 'daffodil'",
+            " 'geranium'",
+            " 'daisy'",
+            " 'iris']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Marigold",
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony"
+        ],
+        "full responses": "['marigold', 'iris', 'daisy', 'geranium', 'daffodil', 'lavender', 'rose', 'tulip', 'sunflower', 'peony']",
+        "stripped response": [
+            "['marigold'",
+            " 'iris'",
+            " 'daisy'",
+            " 'geranium'",
+            " 'daffodil'",
+            " 'lavender'",
+            " 'rose'",
+            " 'tulip'",
+            " 'sunflower'",
+            " 'peony']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip",
+            "Sunflower",
+            "Peony",
+            "Carnation",
+            "Orchid",
+            "Poppy"
+        ],
+        "full responses": "['Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip', 'Sunflower', 'Peony', 'Carnation', 'Orchid', 'Poppy']",
+        "stripped response": [
+            "['Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip'",
+            " 'Sunflower'",
+            " 'Peony'",
+            " 'Carnation'",
+            " 'Orchid'",
+            " 'Poppy']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Sunflower",
+            "Peony",
+            "Carnation"
+        ],
+        "full responses": "['Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium', 'Daisy', 'Iris', 'Marigold', 'Carnation']",
+        "stripped response": [
+            "['Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium'",
+            " 'Daisy'",
+            " 'Iris'",
+            " 'Marigold'",
+            " 'Carnation']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy"
+        ],
+        "full responses": "['carnation', 'peony', 'sunflower', 'tulip', 'rose', 'lavender', 'daffodil', 'geranium', 'daisy']",
+        "stripped response": [
+            "['carnation'",
+            " 'peony'",
+            " 'sunflower'",
+            " 'tulip'",
+            " 'rose'",
+            " 'lavender'",
+            " 'daffodil'",
+            " 'geranium'",
+            " 'daisy']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['rose', 'tulip', 'sunflower', 'peony', 'carnation', 'orchid', 'poppy', 'daffodil']",
+        "stripped response": [
+            "['rose'",
+            " 'tulip'",
+            " 'sunflower'",
+            " 'peony'",
+            " 'carnation'",
+            " 'orchid'",
+            " 'poppy'",
+            " 'daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['rose', 'tulip', 'sunflower', 'peony', 'carnation', 'orchid', 'poppy', 'iris']",
+        "stripped response": [
+            "['rose'",
+            " 'tulip'",
+            " 'sunflower'",
+            " 'peony'",
+            " 'carnation'",
+            " 'orchid'",
+            " 'poppy'",
+            " 'iris']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Poppy",
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose"
+        ],
+        "full responses": "['poppy', 'orchid', 'carnation', 'peony', 'sunflower', 'tulip', 'rose']",
+        "stripped response": [
+            "['poppy'",
+            " 'orchid'",
+            " 'carnation'",
+            " 'peony'",
+            " 'sunflower'",
+            " 'tulip'",
+            " 'rose']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris",
+            "Marigold"
+        ],
+        "full responses": "['carnation', 'peony', 'sunflower', 'tulip', 'rose', 'lavender', 'daffodil', 'geranium', 'daisy', 'iris', 'marigold']",
+        "stripped response": [
+            "['carnation'",
+            " 'peony'",
+            " 'sunflower'",
+            " 'tulip'",
+            " 'rose'",
+            " 'lavender'",
+            " 'daffodil'",
+            " 'geranium'",
+            " 'daisy'",
+            " 'iris'",
+            " 'marigold']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender",
+            "Rose",
+            "Tulip"
+        ],
+        "full responses": "['Daisy', 'Geranium', 'Daffodil', 'Lavender', 'Rose', 'Tulip']",
+        "stripped response": [
+            "['Daisy'",
+            " 'Geranium'",
+            " 'Daffodil'",
+            " 'Lavender'",
+            " 'Rose'",
+            " 'Tulip']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['rose', 'tulip', 'sunflower', 'peony', 'carnation', 'geranium']",
+        "stripped response": [
+            "['rose'",
+            " 'tulip'",
+            " 'sunflower'",
+            " 'peony'",
+            " 'carnation'",
+            " 'geranium']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium"
+        ],
+        "full responses": "['Carnation', 'Peony', 'Sunflower', 'Tulip', 'Rose', 'Lavender', 'Daffodil', 'Geranium']",
+        "stripped response": [
+            "['Carnation'",
+            " 'Peony'",
+            " 'Sunflower'",
+            " 'Tulip'",
+            " 'Rose'",
+            " 'Lavender'",
+            " 'Daffodil'",
+            " 'Geranium']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower"
+        ],
+        "full responses": "['Orchid', 'Carnation', 'Peony', 'Sunflower']",
+        "stripped response": [
+            "['Orchid'",
+            " 'Carnation'",
+            " 'Peony'",
+            " 'Sunflower']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Iris",
+            "Daisy",
+            "Geranium",
+            "Daffodil",
+            "Lavender"
+        ],
+        "full responses": "['iris', 'daisy', 'geranium', 'daffodil', 'lavender']",
+        "stripped response": [
+            "['iris'",
+            " 'daisy'",
+            " 'geranium'",
+            " 'daffodil'",
+            " 'lavender']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Orchid",
+            "Carnation",
+            "Peony",
+            "Sunflower",
+            "Tulip",
+            "Rose",
+            "Lavender",
+            "Daffodil",
+            "Geranium",
+            "Daisy",
+            "Iris"
+        ],
+        "full responses": "['orchid', 'carnation', 'peony', 'sunflower', 'tulip', 'rose', 'lavender', 'daffodil', 'geranium', 'daisy', 'iris']",
+        "stripped response": [
+            "['orchid'",
+            " 'carnation'",
+            " 'peony'",
+            " 'sunflower'",
+            " 'tulip'",
+            " 'rose'",
+            " 'lavender'",
+            " 'daffodil'",
+            " 'geranium'",
+            " 'daisy'",
+            " 'iris']"
+        ]
+    }
+]

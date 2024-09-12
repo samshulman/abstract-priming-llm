@@ -1,0 +1,1281 @@
+[
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Isabelle"
+        ],
+        "full responses": "Mary, Deborah, Isabelle",
+        "stripped response": [
+            "Mary",
+            " Deborah",
+            " Isabelle"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "Bob, George, Fred",
+        "stripped response": [
+            "Bob",
+            " George",
+            " Fred"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred"
+        ],
+        "full responses": "Isabelle, Fred",
+        "stripped response": [
+            "Isabelle",
+            " Fred"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred",
+            "George",
+            "Kelly"
+        ],
+        "full responses": "Isabelle, Fred, George, Kelly",
+        "stripped response": [
+            "Isabelle",
+            " Fred",
+            " George",
+            " Kelly"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Lauren"
+        ],
+        "full responses": "Mary, Deborah, Anne, Emily, Ned, Lauren",
+        "stripped response": [
+            "Mary",
+            " Deborah",
+            " Anne",
+            " Emily",
+            " Ned",
+            " Lauren"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Isabelle"
+        ],
+        "full responses": "Harrison, Fred, Isabelle",
+        "stripped response": [
+            "Harrison",
+            " Fred",
+            " Isabelle"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "Bob, Anne, Emily, John",
+        "stripped response": [
+            "Bob",
+            " Anne",
+            " Emily",
+            " John"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Fred",
+            "George",
+            "Kelly",
+            "Mary"
+        ],
+        "full responses": "Fred, George, Kelly, Mary",
+        "stripped response": [
+            "Fred",
+            " George",
+            " Kelly",
+            " Mary"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Emily",
+            "Anne",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "Emily, Anne, Bob, Charles, Deborah, Mary, John",
+        "stripped response": [
+            "Emily",
+            " Anne",
+            " Bob",
+            " Charles",
+            " Deborah",
+            " Mary",
+            " John"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "Bob, George, Fred",
+        "stripped response": [
+            "Bob",
+            " George",
+            " Fred"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "John",
+            "Mary",
+            "Deborah",
+            "Anne",
+            "Emily"
+        ],
+        "full responses": "John, Mary, Deborah, Anne, Emily",
+        "stripped response": [
+            "John",
+            " Mary",
+            " Deborah",
+            " Anne",
+            " Emily"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Sam",
+            "Mary",
+            "Deborah",
+            "Anne"
+        ],
+        "full responses": "Sam, Mary, Deborah, Anne",
+        "stripped response": [
+            "Sam",
+            " Mary",
+            " Deborah",
+            " Anne"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Kelly",
+            "Mary",
+            "Deborah",
+            "Charles"
+        ],
+        "full responses": "Kelly, Mary, Deborah, Charles",
+        "stripped response": [
+            "Kelly",
+            " Mary",
+            " Deborah",
+            " Charles"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "Bob, Anne, Emily, John",
+        "stripped response": [
+            "Bob",
+            " Anne",
+            " Emily",
+            " John"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Lauren"
+        ],
+        "full responses": "Harrison, Fred, Lauren",
+        "stripped response": [
+            "Harrison",
+            " Fred",
+            " Lauren"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Ned",
+            "Harrison",
+            "Fred",
+            "George"
+        ],
+        "full responses": "Ned, Emily, Anne, Bob, George",
+        "stripped response": [
+            "Ned",
+            " Emily",
+            " Anne",
+            " Bob",
+            " George"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "John",
+            "Sam"
+        ],
+        "full responses": "John, Mary, Sam",
+        "stripped response": [
+            "John",
+            " Mary",
+            " Sam"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah"
+        ],
+        "full responses": "Bob, Anne, Deborah",
+        "stripped response": [
+            "Bob",
+            " Anne",
+            " Deborah"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Lauren",
+            "Fred"
+        ],
+        "full responses": "Lauren, Ned, Emily, Anne, Bob, George, Fred",
+        "stripped response": [
+            "Lauren",
+            " Ned",
+            " Emily",
+            " Anne",
+            " Bob",
+            " George",
+            " Fred"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "Anne",
+            "Emily",
+            "Ned"
+        ],
+        "full responses": "Anne, Emily, Ned",
+        "stripped response": [
+            "Anne",
+            " Emily",
+            " Ned"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Isabelle"
+        ],
+        "full responses": "['Mary', 'Deborah', 'Anne', 'Bob', 'Charles', 'Emily', 'Ned', 'Harrison', 'Isabelle']",
+        "stripped response": [
+            "['Mary'",
+            " 'Deborah'",
+            " 'Anne'",
+            " 'Bob'",
+            " 'Charles'",
+            " 'Emily'",
+            " 'Ned'",
+            " 'Harrison'",
+            " 'Isabelle']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "['Bob', 'Anne', 'Deborah', 'Mary', 'Kelly', 'George', 'Fred']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Deborah'",
+            " 'Mary'",
+            " 'Kelly'",
+            " 'George'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred"
+        ],
+        "full responses": "['Isabelle', 'Fred']",
+        "stripped response": [
+            "['Isabelle'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred",
+            "George",
+            "Kelly"
+        ],
+        "full responses": "['Isabelle', 'Fred', 'George', 'Kelly']",
+        "stripped response": [
+            "['Isabelle'",
+            " 'Fred'",
+            " 'George'",
+            " 'Kelly']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Lauren"
+        ],
+        "full responses": "['Mary', 'Deborah', 'Lauren']",
+        "stripped response": [
+            "['Mary'",
+            " 'Deborah'",
+            " 'Lauren']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Isabelle"
+        ],
+        "full responses": "['Harrison', 'Fred', 'Isabelle']",
+        "stripped response": [
+            "['Harrison'",
+            " 'Fred'",
+            " 'Isabelle']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Bob', 'Anne', 'Charles', 'Deborah', 'Mary', 'John']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Charles'",
+            " 'Deborah'",
+            " 'Mary'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Fred",
+            "George",
+            "Kelly",
+            "Mary"
+        ],
+        "full responses": "['Fred', 'George', 'Kelly', 'Mary']",
+        "stripped response": [
+            "['Fred'",
+            " 'George'",
+            " 'Kelly'",
+            " 'Mary']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Emily",
+            "Anne",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Emily', 'Anne', 'Bob', 'Charles', 'John']",
+        "stripped response": [
+            "['Emily'",
+            " 'Anne'",
+            " 'Bob'",
+            " 'Charles'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "['Bob', 'Anne', 'Deborah', 'Mary', 'Kelly', 'George', 'Fred']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Deborah'",
+            " 'Mary'",
+            " 'Kelly'",
+            " 'George'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "John",
+            "Mary",
+            "Deborah",
+            "Anne",
+            "Emily"
+        ],
+        "full responses": "['John', 'Mary', 'Deborah', 'Emily']",
+        "stripped response": [
+            "['John'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Emily']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Sam",
+            "Mary",
+            "Deborah",
+            "Anne"
+        ],
+        "full responses": "['Sam', 'Mary', 'Deborah', 'Anne']",
+        "stripped response": [
+            "['Sam'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Anne']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Kelly",
+            "Mary",
+            "Deborah",
+            "Charles"
+        ],
+        "full responses": "['Kelly', 'Mary', 'Deborah', 'Charles']",
+        "stripped response": [
+            "['Kelly'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Charles']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Bob', 'Anne', 'Charles', 'John']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Charles'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Lauren"
+        ],
+        "full responses": "['Harrison', 'Fred', 'Lauren']",
+        "stripped response": [
+            "['Harrison'",
+            " 'Fred'",
+            " 'Lauren']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Ned",
+            "Harrison",
+            "Fred",
+            "George"
+        ],
+        "full responses": "['Ned', 'Emily', 'Anne', 'Bob', 'Charles', 'Emily', 'Ned', 'Harrison', 'Fred', 'George']",
+        "stripped response": [
+            "['Ned'",
+            " 'Emily'",
+            " 'Anne'",
+            " 'Bob'",
+            " 'Charles'",
+            " 'Emily'",
+            " 'Ned'",
+            " 'Harrison'",
+            " 'Fred'",
+            " 'George']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "John",
+            "Sam"
+        ],
+        "full responses": "['John', 'Sam']",
+        "stripped response": [
+            "['John'",
+            " 'Sam']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah"
+        ],
+        "full responses": "['Bob', 'Anne', 'Deborah']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Deborah']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Lauren",
+            "Fred"
+        ],
+        "full responses": "['Lauren', 'Fred']",
+        "stripped response": [
+            "['Lauren'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "Anne",
+            "Emily",
+            "Ned"
+        ],
+        "full responses": "['Anne', 'Bob', 'Charles', 'Emily', 'Ned']",
+        "stripped response": [
+            "['Anne'",
+            " 'Bob'",
+            " 'Charles'",
+            " 'Emily'",
+            " 'Ned']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Isabelle"
+        ],
+        "full responses": "['Mary', 'Deborah', 'Bob', 'Anne', 'Charles', 'Emily', 'Ned', 'Isabelle']",
+        "stripped response": [
+            "['Mary'",
+            " 'Deborah'",
+            " 'Bob'",
+            " 'Anne'",
+            " 'Charles'",
+            " 'Emily'",
+            " 'Ned'",
+            " 'Isabelle']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "['Bob', 'George', 'Fred']",
+        "stripped response": [
+            "['Bob'",
+            " 'George'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred"
+        ],
+        "full responses": "['Isabelle', 'Fred']",
+        "stripped response": [
+            "['Isabelle'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred",
+            "George",
+            "Kelly"
+        ],
+        "full responses": "['Isabelle', 'Fred', 'George', 'Kelly']",
+        "stripped response": [
+            "['Isabelle'",
+            " 'Fred'",
+            " 'George'",
+            " 'Kelly']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Lauren"
+        ],
+        "full responses": "['Mary', 'Deborah', 'Bob', 'Anne', 'Emily', 'Lauren']",
+        "stripped response": [
+            "['Mary'",
+            " 'Deborah'",
+            " 'Bob'",
+            " 'Anne'",
+            " 'Emily'",
+            " 'Lauren']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Isabelle"
+        ],
+        "full responses": "['Harrison', 'Fred', 'Isabelle']",
+        "stripped response": [
+            "['Harrison'",
+            " 'Fred'",
+            " 'Isabelle']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Bob', 'Anne', 'Charles', 'Emily', 'Ned', 'Harrison', 'Fred', 'George', 'John']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Charles'",
+            " 'Emily'",
+            " 'Ned'",
+            " 'Harrison'",
+            " 'Fred'",
+            " 'George'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Fred",
+            "George",
+            "Kelly",
+            "Mary"
+        ],
+        "full responses": "['Fred', 'George', 'Kelly', 'Mary']",
+        "stripped response": [
+            "['Fred'",
+            " 'George'",
+            " 'Kelly'",
+            " 'Mary']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Emily",
+            "Anne",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Emily', 'Bob', 'Anne', 'Charles', 'John']",
+        "stripped response": [
+            "['Emily'",
+            " 'Bob'",
+            " 'Anne'",
+            " 'Charles'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "['Bob', 'George', 'Fred']",
+        "stripped response": [
+            "['Bob'",
+            " 'George'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "John",
+            "Mary",
+            "Deborah",
+            "Anne",
+            "Emily"
+        ],
+        "full responses": "['John', 'Mary', 'Deborah', 'Bob', 'Emily']",
+        "stripped response": [
+            "['John'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Bob'",
+            " 'Emily']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Sam",
+            "Mary",
+            "Deborah",
+            "Anne"
+        ],
+        "full responses": "['Sam', 'Mary', 'Deborah', 'Anne']",
+        "stripped response": [
+            "['Sam'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Anne']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Kelly",
+            "Mary",
+            "Deborah",
+            "Charles"
+        ],
+        "full responses": "['Kelly', 'Mary', 'Charles']",
+        "stripped response": [
+            "['Kelly'",
+            " 'Mary'",
+            " 'Charles']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Bob', 'Anne', 'Deborah', 'Mary', 'John']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Deborah'",
+            " 'Mary'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Lauren"
+        ],
+        "full responses": "['Harrison', 'Fred', 'Lauren']",
+        "stripped response": [
+            "['Harrison'",
+            " 'Fred'",
+            " 'Lauren']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Ned",
+            "Harrison",
+            "Fred",
+            "George"
+        ],
+        "full responses": "['Ned', 'Emily', 'Charles', 'Bob', 'George']",
+        "stripped response": [
+            "['Ned'",
+            " 'Emily'",
+            " 'Charles'",
+            " 'Bob'",
+            " 'George']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "John",
+            "Sam"
+        ],
+        "full responses": "['John', 'Sam']",
+        "stripped response": [
+            "['John'",
+            " 'Sam']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah"
+        ],
+        "full responses": "['Bob', 'Anne', 'Deborah']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Deborah']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Lauren",
+            "Fred"
+        ],
+        "full responses": "['Lauren', 'Fred']",
+        "stripped response": [
+            "['Lauren'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "Anne",
+            "Emily",
+            "Ned"
+        ],
+        "full responses": "['Anne', 'Emily', 'Ned']",
+        "stripped response": [
+            "['Anne'",
+            " 'Emily'",
+            " 'Ned']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Isabelle"
+        ],
+        "full responses": "['Mary', 'Deborah', 'Isabelle']",
+        "stripped response": [
+            "['Mary'",
+            " 'Deborah'",
+            " 'Isabelle']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "['Bob', 'Anne', 'Deborah', 'Mary', 'Kelly', 'George', 'Fred']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Deborah'",
+            " 'Mary'",
+            " 'Kelly'",
+            " 'George'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred"
+        ],
+        "full responses": "['Isabelle', 'Fred']",
+        "stripped response": [
+            "['Isabelle'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Isabelle",
+            "Fred",
+            "George",
+            "Kelly"
+        ],
+        "full responses": "['Isabelle', 'Fred', 'George', 'Kelly']",
+        "stripped response": [
+            "['Isabelle'",
+            " 'Fred'",
+            " 'George'",
+            " 'Kelly']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Mary",
+            "Kelly",
+            "George",
+            "Fred",
+            "Lauren"
+        ],
+        "full responses": "['Mary', 'Deborah', 'Lauren']",
+        "stripped response": [
+            "['Mary'",
+            " 'Deborah'",
+            " 'Lauren']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Isabelle"
+        ],
+        "full responses": "['Harrison', 'Fred', 'Isabelle']",
+        "stripped response": [
+            "['Harrison'",
+            " 'Fred'",
+            " 'Isabelle']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Bob', 'Anne', 'Charles', 'Mary', 'John']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Charles'",
+            " 'Mary'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Fred",
+            "George",
+            "Kelly",
+            "Mary"
+        ],
+        "full responses": "['Fred', 'George', 'Kelly', 'Mary']",
+        "stripped response": [
+            "['Fred'",
+            " 'George'",
+            " 'Kelly'",
+            " 'Mary']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Emily",
+            "Anne",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Emily', 'Charles', 'Bob', 'Anne', 'Deborah', 'Mary', 'John']",
+        "stripped response": [
+            "['Emily'",
+            " 'Charles'",
+            " 'Bob'",
+            " 'Anne'",
+            " 'Deborah'",
+            " 'Mary'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Bob",
+            "Emily",
+            "Ned",
+            "Harrison",
+            "Fred"
+        ],
+        "full responses": "['Bob', 'Anne', 'Deborah', 'Mary', 'Kelly', 'George', 'Fred']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Deborah'",
+            " 'Mary'",
+            " 'Kelly'",
+            " 'George'",
+            " 'Fred']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "John",
+            "Mary",
+            "Deborah",
+            "Anne",
+            "Emily"
+        ],
+        "full responses": "['John', 'Mary', 'Deborah', 'Emily']",
+        "stripped response": [
+            "['John'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Emily']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Sam",
+            "Mary",
+            "Deborah",
+            "Anne"
+        ],
+        "full responses": "['Sam', 'Mary', 'Deborah', 'Anne']",
+        "stripped response": [
+            "['Sam'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Anne']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Kelly",
+            "Mary",
+            "Deborah",
+            "Charles"
+        ],
+        "full responses": "['Kelly', 'Mary', 'Deborah', 'Charles']",
+        "stripped response": [
+            "['Kelly'",
+            " 'Mary'",
+            " 'Deborah'",
+            " 'Charles']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah",
+            "Mary",
+            "John"
+        ],
+        "full responses": "['Bob', 'Anne', 'Charles', 'Mary', 'John']",
+        "stripped response": [
+            "['Bob'",
+            " 'Anne'",
+            " 'Charles'",
+            " 'Mary'",
+            " 'John']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Harrison",
+            "Lauren"
+        ],
+        "full responses": "['Harrison', 'Fred', 'Lauren']",
+        "stripped response": [
+            "['Harrison'",
+            " 'Fred'",
+            " 'Lauren']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Ned",
+            "Harrison",
+            "Fred",
+            "George"
+        ],
+        "full responses": "['Ned', 'Emily', 'Charles', 'Bob', 'Anne', 'Emily', 'Ned', 'George']",
+        "stripped response": [
+            "['Ned'",
+            " 'Emily'",
+            " 'Charles'",
+            " 'Bob'",
+            " 'Anne'",
+            " 'Emily'",
+            " 'Ned'",
+            " 'George']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "John",
+            "Sam"
+        ],
+        "full responses": "['John', 'Mary', 'Sam']",
+        "stripped response": [
+            "['John'",
+            " 'Mary'",
+            " 'Sam']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Bob",
+            "Deborah"
+        ],
+        "full responses": "['Bob', 'Deborah']",
+        "stripped response": [
+            "['Bob'",
+            " 'Deborah']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Lauren",
+            "Fred"
+        ],
+        "full responses": "Lauren, Ned, Emily, Anne, Bob, Charles, Deborah, Mary, Kelly, George, Fred",
+        "stripped response": [
+            "Lauren",
+            " Ned",
+            " Emily",
+            " Anne",
+            " Bob",
+            " Charles",
+            " Deborah",
+            " Mary",
+            " Kelly",
+            " George",
+            " Fred"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "Anne",
+            "Emily",
+            "Ned"
+        ],
+        "full responses": "['Anne', 'Bob', 'Charles', 'Emily', 'Ned']",
+        "stripped response": [
+            "['Anne'",
+            " 'Bob'",
+            " 'Charles'",
+            " 'Emily'",
+            " 'Ned']"
+        ]
+    }
+]

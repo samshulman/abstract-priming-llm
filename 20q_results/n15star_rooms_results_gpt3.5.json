@@ -1,0 +1,1285 @@
+[
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "11",
+            "14"
+        ],
+        "full responses": "11, 14",
+        "stripped response": [
+            "11",
+            " 14"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "7",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "7, 6, 4, 1",
+        "stripped response": [
+            "7",
+            " 6",
+            " 4",
+            " 1"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "13",
+            "15",
+            "5",
+            "1",
+            "4"
+        ],
+        "full responses": "13, 11, 10, 7, 6, 4",
+        "stripped response": [
+            "13",
+            " 11",
+            " 10",
+            " 7",
+            " 6",
+            " 4"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "1",
+            "5"
+        ],
+        "full responses": "1, 5",
+        "stripped response": [
+            "1",
+            " 5"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "2",
+            "4",
+            "6"
+        ],
+        "full responses": "2, 1, 4, 6",
+        "stripped response": [
+            "2",
+            " 1",
+            " 4",
+            " 6"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "15",
+            "14"
+        ],
+        "full responses": "15, 14",
+        "stripped response": [
+            "15",
+            " 14"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "7",
+            "10"
+        ],
+        "full responses": "1, 2, 3, 5, 15, 12, 11, 10",
+        "stripped response": [
+            "1",
+            " 2",
+            " 3",
+            " 5",
+            " 15",
+            " 12",
+            " 11",
+            " 10"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "8",
+            "10",
+            "11",
+            "13"
+        ],
+        "full responses": "8, 9, 10, 11, 13",
+        "stripped response": [
+            "8",
+            " 9",
+            " 10",
+            " 11",
+            " 13"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1",
+            "4",
+            "6"
+        ],
+        "full responses": "15, 5, 1, 4, 6",
+        "stripped response": [
+            "15",
+            " 5",
+            " 1",
+            " 4",
+            " 6"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "8"
+        ],
+        "full responses": "1, 2, 3, 5, 15, 12, 13, 14, 11, 10, 8",
+        "stripped response": [
+            "1",
+            " 2",
+            " 3",
+            " 5",
+            " 15",
+            " 12",
+            " 13",
+            " 14",
+            " 11",
+            " 10",
+            " 8"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "3",
+            "5",
+            "15",
+            "14"
+        ],
+        "full responses": "3, 1, 5, 15, 14",
+        "stripped response": [
+            "3",
+            " 1",
+            " 5",
+            " 15",
+            " 14"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1"
+        ],
+        "full responses": "15, 5, 1",
+        "stripped response": [
+            "15",
+            " 5",
+            " 1"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "14",
+            "15",
+            "5"
+        ],
+        "full responses": "14, 15, 5",
+        "stripped response": [
+            "14",
+            " 15",
+            " 5"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "14",
+            "12"
+        ],
+        "full responses": "14, 11, 12",
+        "stripped response": [
+            "14",
+            " 11",
+            " 12"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "4",
+            "1",
+            "5"
+        ],
+        "full responses": "4, 1, 5",
+        "stripped response": [
+            "4",
+            " 1",
+            " 5"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "10",
+            "11"
+        ],
+        "full responses": "10, 11",
+        "stripped response": [
+            "10",
+            " 11"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "8, 6, 4, 1, 2",
+        "stripped response": [
+            "8",
+            " 6",
+            " 4",
+            " 1",
+            " 2"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "11",
+            "12",
+            "15",
+            "5",
+            "2"
+        ],
+        "full responses": "11, 10, 7, 6, 4, 1, 2",
+        "stripped response": [
+            "11",
+            " 10",
+            " 7",
+            " 6",
+            " 4",
+            " 1",
+            " 2"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "9",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "9, 6, 4, 1",
+        "stripped response": [
+            "9",
+            " 6",
+            " 4",
+            " 1"
+        ]
+    },
+    {
+        "Question Type": "No Prime Question",
+        "correct answers": [
+            "10",
+            "7",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "10, 7, 6, 4, 1, 2",
+        "stripped response": [
+            "10",
+            " 7",
+            " 6",
+            " 4",
+            " 1",
+            " 2"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "11",
+            "14"
+        ],
+        "full responses": "['11', '14']",
+        "stripped response": [
+            "['11'",
+            " '14']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "7",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "['7', '6', '4', '1']",
+        "stripped response": [
+            "['7'",
+            " '6'",
+            " '4'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "13",
+            "15",
+            "5",
+            "1",
+            "4"
+        ],
+        "full responses": "['13', '11', '14', '15', '5', '1', '4']",
+        "stripped response": [
+            "['13'",
+            " '11'",
+            " '14'",
+            " '15'",
+            " '5'",
+            " '1'",
+            " '4']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "1",
+            "5"
+        ],
+        "full responses": "['1', '5']",
+        "stripped response": [
+            "['1'",
+            " '5']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "2",
+            "4",
+            "6"
+        ],
+        "full responses": "['2', '1', '4', '6']",
+        "stripped response": [
+            "['2'",
+            " '1'",
+            " '4'",
+            " '6']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "15",
+            "14"
+        ],
+        "full responses": "['15', '12', '11', '14']",
+        "stripped response": [
+            "['15'",
+            " '12'",
+            " '11'",
+            " '14']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "7",
+            "10"
+        ],
+        "full responses": "['1', '2', '3', '5', '15', '12', '13', '11', '10']",
+        "stripped response": [
+            "['1'",
+            " '2'",
+            " '3'",
+            " '5'",
+            " '15'",
+            " '12'",
+            " '13'",
+            " '11'",
+            " '10']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "8",
+            "10",
+            "11",
+            "13"
+        ],
+        "full responses": "['8', '6', '4', '1', '5', '15', '12', '13']",
+        "stripped response": [
+            "['8'",
+            " '6'",
+            " '4'",
+            " '1'",
+            " '5'",
+            " '15'",
+            " '12'",
+            " '13']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1",
+            "4",
+            "6"
+        ],
+        "full responses": "['15', '5', '1', '4', '6']",
+        "stripped response": [
+            "['15'",
+            " '5'",
+            " '1'",
+            " '4'",
+            " '6']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "8"
+        ],
+        "full responses": "['1', '2', '3', '4', '6', '8']",
+        "stripped response": [
+            "['1'",
+            " '2'",
+            " '3'",
+            " '4'",
+            " '6'",
+            " '8']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "3",
+            "5",
+            "15",
+            "14"
+        ],
+        "full responses": "['3', '1', '2', '5', '15', '14']",
+        "stripped response": [
+            "['3'",
+            " '1'",
+            " '2'",
+            " '5'",
+            " '15'",
+            " '14']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1"
+        ],
+        "full responses": "['15', '5', '1']",
+        "stripped response": [
+            "['15'",
+            " '5'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "14",
+            "15",
+            "5"
+        ],
+        "full responses": "['14', '15', '5']",
+        "stripped response": [
+            "['14'",
+            " '15'",
+            " '5']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "14",
+            "12"
+        ],
+        "full responses": "['14', '12']",
+        "stripped response": [
+            "['14'",
+            " '12']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "4",
+            "1",
+            "5"
+        ],
+        "full responses": "['4', '1', '5']",
+        "stripped response": [
+            "['4'",
+            " '1'",
+            " '5']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "10",
+            "11"
+        ],
+        "full responses": "['10', '11']",
+        "stripped response": [
+            "['10'",
+            " '11']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "['8', '6', '4', '2']",
+        "stripped response": [
+            "['8'",
+            " '6'",
+            " '4'",
+            " '2']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "11",
+            "12",
+            "15",
+            "5",
+            "2"
+        ],
+        "full responses": "['11', '10', '7', '6', '4', '2']",
+        "stripped response": [
+            "['11'",
+            " '10'",
+            " '7'",
+            " '6'",
+            " '4'",
+            " '2']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "9",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "['9', '6', '4', '1']",
+        "stripped response": [
+            "['9'",
+            " '6'",
+            " '4'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Both Prime Question",
+        "correct answers": [
+            "10",
+            "7",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "['10', '7', '6', '4', '2']",
+        "stripped response": [
+            "['10'",
+            " '7'",
+            " '6'",
+            " '4'",
+            " '2']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "11",
+            "14"
+        ],
+        "full responses": "['11', '14']",
+        "stripped response": [
+            "['11'",
+            " '14']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "7",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "['7', '6', '4', '1']",
+        "stripped response": [
+            "['7'",
+            " '6'",
+            " '4'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "13",
+            "15",
+            "5",
+            "1",
+            "4"
+        ],
+        "full responses": "['13', '12', '15', '5', '1', '4']",
+        "stripped response": [
+            "['13'",
+            " '12'",
+            " '15'",
+            " '5'",
+            " '1'",
+            " '4']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "1",
+            "5"
+        ],
+        "full responses": "['1', '5']",
+        "stripped response": [
+            "['1'",
+            " '5']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "2",
+            "4",
+            "6"
+        ],
+        "full responses": "['2', '1', '4', '6']",
+        "stripped response": [
+            "['2'",
+            " '1'",
+            " '4'",
+            " '6']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "15",
+            "14"
+        ],
+        "full responses": "['15', '5', '1', '2', '3', '4', '6', '7', '8', '9', '10', '11', '14']",
+        "stripped response": [
+            "['15'",
+            " '5'",
+            " '1'",
+            " '2'",
+            " '3'",
+            " '4'",
+            " '6'",
+            " '7'",
+            " '8'",
+            " '9'",
+            " '10'",
+            " '11'",
+            " '14']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "7",
+            "10"
+        ],
+        "full responses": "['1', '2', '3', '5', '4', '6', '10']",
+        "stripped response": [
+            "['1'",
+            " '2'",
+            " '3'",
+            " '5'",
+            " '4'",
+            " '6'",
+            " '10']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "8",
+            "10",
+            "11",
+            "13"
+        ],
+        "full responses": "['8', '6', '9', '11', '13']",
+        "stripped response": [
+            "['8'",
+            " '6'",
+            " '9'",
+            " '11'",
+            " '13']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1",
+            "4",
+            "6"
+        ],
+        "full responses": "['15', '5', '1', '2', '3', '4', '6']",
+        "stripped response": [
+            "['15'",
+            " '5'",
+            " '1'",
+            " '2'",
+            " '3'",
+            " '4'",
+            " '6']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "8"
+        ],
+        "full responses": "['1', '2', '4', '6', '8']",
+        "stripped response": [
+            "['1'",
+            " '2'",
+            " '4'",
+            " '6'",
+            " '8']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "3",
+            "5",
+            "15",
+            "14"
+        ],
+        "full responses": "['3', '1', '2', '5', '15', '14']",
+        "stripped response": [
+            "['3'",
+            " '1'",
+            " '2'",
+            " '5'",
+            " '15'",
+            " '14']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1"
+        ],
+        "full responses": "['15', '5', '1']",
+        "stripped response": [
+            "['15'",
+            " '5'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "14",
+            "15",
+            "5"
+        ],
+        "full responses": "['14', '15', '5']",
+        "stripped response": [
+            "['14'",
+            " '15'",
+            " '5']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "14",
+            "12"
+        ],
+        "full responses": "['14', '11', '12']",
+        "stripped response": [
+            "['14'",
+            " '11'",
+            " '12']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "4",
+            "1",
+            "5"
+        ],
+        "full responses": "['4', '1', '5']",
+        "stripped response": [
+            "['4'",
+            " '1'",
+            " '5']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "10",
+            "11"
+        ],
+        "full responses": "['10', '11']",
+        "stripped response": [
+            "['10'",
+            " '11']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "['8', '6', '4', '2']",
+        "stripped response": [
+            "['8'",
+            " '6'",
+            " '4'",
+            " '2']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "11",
+            "12",
+            "15",
+            "5",
+            "2"
+        ],
+        "full responses": "['11', '10', '7', '6', '4', '1', '2']",
+        "stripped response": [
+            "['11'",
+            " '10'",
+            " '7'",
+            " '6'",
+            " '4'",
+            " '1'",
+            " '2']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "9",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "['9', '6', '4', '1']",
+        "stripped response": [
+            "['9'",
+            " '6'",
+            " '4'",
+            " '1']"
+        ]
+    },
+    {
+        "Question Type": "Lexical Prime Question",
+        "correct answers": [
+            "10",
+            "7",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "['10', '7', '6', '4', '2']",
+        "stripped response": [
+            "['10'",
+            " '7'",
+            " '6'",
+            " '4'",
+            " '2']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "11",
+            "14"
+        ],
+        "full responses": "[11, 14]",
+        "stripped response": [
+            "[11",
+            " 14]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "7",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "[7, 6, 4, 1]",
+        "stripped response": [
+            "[7",
+            " 6",
+            " 4",
+            " 1]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "13",
+            "15",
+            "5",
+            "1",
+            "4"
+        ],
+        "full responses": "[13, 12, 15, 5, 1, 4]",
+        "stripped response": [
+            "[13",
+            " 12",
+            " 15",
+            " 5",
+            " 1",
+            " 4]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "1",
+            "5"
+        ],
+        "full responses": "[1, 5]",
+        "stripped response": [
+            "[1",
+            " 5]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "2",
+            "4",
+            "6"
+        ],
+        "full responses": "[2, 1, 4, 6]",
+        "stripped response": [
+            "[2",
+            " 1",
+            " 4",
+            " 6]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "15",
+            "14"
+        ],
+        "full responses": "[15, 12, 11, 14]",
+        "stripped response": [
+            "[15",
+            " 12",
+            " 11",
+            " 14]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "7",
+            "10"
+        ],
+        "full responses": "[1, 4, 6, 10]",
+        "stripped response": [
+            "[1",
+            " 4",
+            " 6",
+            " 10]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "8",
+            "10",
+            "11",
+            "13"
+        ],
+        "full responses": "[8, 9, 10, 11, 13]",
+        "stripped response": [
+            "[8",
+            " 9",
+            " 10",
+            " 11",
+            " 13]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1",
+            "4",
+            "6"
+        ],
+        "full responses": "[15, 5, 1, 4, 6]",
+        "stripped response": [
+            "[15",
+            " 5",
+            " 1",
+            " 4",
+            " 6]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "1",
+            "4",
+            "6",
+            "8"
+        ],
+        "full responses": "['1', '2', '3', '5', '4', '6', '9', '8']",
+        "stripped response": [
+            "['1'",
+            " '2'",
+            " '3'",
+            " '5'",
+            " '4'",
+            " '6'",
+            " '9'",
+            " '8']"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "3",
+            "5",
+            "15",
+            "14"
+        ],
+        "full responses": "[3, 1, 2, 5, 15, 14]",
+        "stripped response": [
+            "[3",
+            " 1",
+            " 2",
+            " 5",
+            " 15",
+            " 14]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "15",
+            "5",
+            "1"
+        ],
+        "full responses": "[15, 5, 1]",
+        "stripped response": [
+            "[15",
+            " 5",
+            " 1]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "14",
+            "15",
+            "5"
+        ],
+        "full responses": "[14, 15, 5]",
+        "stripped response": [
+            "[14",
+            " 15",
+            " 5]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "14",
+            "12"
+        ],
+        "full responses": "[14, 11, 12]",
+        "stripped response": [
+            "[14",
+            " 11",
+            " 12]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "4",
+            "1",
+            "5"
+        ],
+        "full responses": "[4, 1, 5]",
+        "stripped response": [
+            "[4",
+            " 1",
+            " 5]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "10",
+            "11"
+        ],
+        "full responses": "[10, 11]",
+        "stripped response": [
+            "[10",
+            " 11]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "8",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "[8, 6, 4, 2]",
+        "stripped response": [
+            "[8",
+            " 6",
+            " 4",
+            " 2]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "11",
+            "12",
+            "15",
+            "5",
+            "2"
+        ],
+        "full responses": "[11, 10, 7, 6, 4, 1, 2]",
+        "stripped response": [
+            "[11",
+            " 10",
+            " 7",
+            " 6",
+            " 4",
+            " 1",
+            " 2]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "9",
+            "6",
+            "4",
+            "1"
+        ],
+        "full responses": "[9, 6, 4, 1]",
+        "stripped response": [
+            "[9",
+            " 6",
+            " 4",
+            " 1]"
+        ]
+    },
+    {
+        "Question Type": "Structural Prime Question",
+        "correct answers": [
+            "10",
+            "7",
+            "6",
+            "4",
+            "2"
+        ],
+        "full responses": "[10, 7, 6, 4, 1, 2]",
+        "stripped response": [
+            "[10",
+            " 7",
+            " 6",
+            " 4",
+            " 1",
+            " 2]"
+        ]
+    }
+]
