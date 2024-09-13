@@ -14,7 +14,8 @@ load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-graph_names = ["n7line_rooms", "n7tree_rooms"]
+# graph_names = ["n7line_rooms", "n7line_friends", "n7line_flowers", "n7tree_rooms", "n7tree_friends", "n7tree_flowers", "n13line_rooms", "n13line_friends", "n13line_flowers", "n15star_rooms", "n15star_friends", "n15star_flowers", "n16cluster_rooms", "n16cluster_friends", "n16cluster_flowers"]
+graph_names = ["n15star_rooms", "n15star_friends", "n15star_flowers", "n16cluster_rooms", "n16cluster_friends", "n16cluster_flowers"]
 
 for graph_title in graph_names:
     graph_name = graph_title
@@ -29,25 +30,56 @@ for graph_title in graph_names:
         for num, line in enumerate(lines):
         
             results_dict = {}
-            print(num, "line starting")
+            
+            # check if no prime question type 
+            if q_type == "No Prime Question":
+                
+                completion = client.chat.completions.create(
+                    model=model,
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": "You are an AI assisant designed to help answer questions about various scenarios. Please answer based on the provided information",
+                        },
+                        {
+                            "role": "user",
+                            "content": line[q_type],
+                        }
+                    ],
+                    temperature=0,
+                )
 
-            completion = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {
-                        "role": "system",
-                        "content": "You are an AI assisant designed to help answer questions about various scenarios. Please answer based on the provided information",
-                    },
-                    {
-                        "role": "user",
-                        "content": line[q_type],
-                    }
-                ],
-                temperature=0,
-            )
+            else: 
+
+                user1_message = f"{q_type} User1"
+                assisant_message = f"{q_type} Assistant"
+                user2_message = f"{q_type} User2"
+
+                completion = client.chat.completions.create(
+                    model=model,
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": "You are an AI assisant designed to help answer questions about various scenarios. Please answer based on the provided information",
+                        },
+                        {
+                            "role": "user",
+                            "content": line[user1_message],
+                        },
+                        {
+                            "role": "assistant",
+                            "content": format_content(line[assisant_message]),
+                        },
+                        {
+                            "role": "user",
+                            "content": line[user2_message],
+                        }
+                    ],
+                    temperature=0,
+                )
 
             full_response = completion.choices[0].message.content
-            answer_string = f"{q_type} answer"
+            answer_string = f"{q_type} Answer"
             stripped_ans = extract_path(full_response)
             results_dict["Question Type"] = q_type
             results_dict["Correct Answer"] = line[answer_string]
@@ -80,7 +112,7 @@ for graph_title in graph_names:
     # model_name = "gpt3.5"
 
 
-    q_types = ["abstract desc characteristic question", "abstract desc name question", "path desc characteristic question", "path desc name question", "mixed desc characteristic question", "mixed desc name question"]
+    q_types = ["No Prime Question", "Both Prime Question", "Lexical Prime Question", "Structural Prime Question", "Unrelated Prime Question"]
         
         
     for q in q_types:

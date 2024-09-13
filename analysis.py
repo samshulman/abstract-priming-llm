@@ -10,62 +10,38 @@ def is_correct(stripped_responses, gold_labels):
                 return False
     return True
 
-gpt4_file_paths = ["n16cluster_flowers_results_gpt4.json"]
+gpt4_file_paths = ["n7tree_rooms_results_gpt4.json"]
 
 for file_name in gpt4_file_paths:
     with open(file_name, 'r') as file:
-    # with open("n7line_rooms_results_gpt4.json", 'r') as file:
-    # with open("n7line_friends_results_gpt4.json", 'r') as file:
-    # with open("n7line_flowers_results_gpt4.json", 'r') as file:
-    # with open("n7tree_rooms_results_gpt4.json", 'r') as file:
-    # with open("n7tree_friends_results_gpt4.json", 'r') as file:
-    # with open("n7tree_flowers_results_gpt4.json", 'r') as file:
-    # with open("n13line_rooms_results_gpt4.json", 'r') as file:
-    # with open("n13line_friends_results_gpt4.json", 'r') as file:
-    # with open("n13line_flowers_results_gpt4.json", 'r') as file:
-    # with open("n15star_rooms_results_gpt4.json", 'r') as file:
-    # with open("n15star_friends_results_gpt4.json", 'r') as file:
-    # with open("n15star_flowers_results_gpt4.json", 'r') as file:
-    # with open("n16cluster_rooms_results_gpt4.json", 'r') as file:
-    # with open("n16cluster_friends_results_gpt4.json", 'r') as file:
-    # with open("n16cluster_flowers_results_gpt4.json", 'r') as file:
-
-    # with open("n7line_rooms_results_gpt3.5.json", 'r') as file:
-    # with open("n7line_friends_results_gpt3.5.json", 'r') as file:
-    # with open("n7line_flowers_results_gpt3.5.json", 'r') as file:
-    # with open("n7tree_rooms_results_gpt3.5.json", 'r') as file:
-    # with open("n7tree_friends_results_gpt3.5.json", 'r') as file:
-    # with open("n7tree_flowers_results_gpt3.5.json", 'r') as file:
-    # with open("n13line_rooms_results_gpt3.5.json", 'r') as file:
-    # with open("n13line_friends_results_gpt3.5.json", 'r') as file:
-    # with open("n13line_flowers_results_gpt3.5.json", 'r') as file:
-    # with open("n15star_rooms_results_gpt3.5.json", 'r') as file:
-    # with open("n15star_friends_results_gpt3.5.json", 'r') as file:
-    # with open("n15star_flowers_results_gpt3.5.json", 'r') as file:
 
         data = json.load(file)
-        no_prime= []
-        both_prime = []
-        lex_prime = []
-        struct_prime = []
-        unrelated_prime = []
+        ac = []
+        an = []
+        pc = []
+        pn = []
+        mc = []
+        mn = []
 
 
         for item in data:
-            if item["Question Type"] == "No Prime Question":
-                no_prime.append(is_correct(item["stripped response"], item["Correct Answer"]))
-            elif item["Question Type"] == "Both Prime Question":
-                both_prime.append(is_correct(item["stripped response"], item["Correct Answer"]))
-            elif item["Question Type"] == "Lexical Prime Question":
-                lex_prime.append(is_correct(item["stripped response"], item["Correct Answer"]))
-            elif item["Question Type"] == "Structural Prime Question":
-                struct_prime.append(is_correct(item["stripped response"], item["Correct Answer"]))
-            elif item["Question Type"] == "Unrelated Prime Question":
-                unrelated_prime.append(is_correct(item["stripped response"], item["Correct Answer"]))
+            if item["Question Type"] == "abstract desc characteristic question":
+                ac.append(is_correct(item["stripped response"], item["Correct Answer"]))
+            elif item["Question Type"] == "abstract desc name question":
+                an.append(is_correct(item["stripped response"], item["Correct Answer"]))
+            elif item["Question Type"] == "path desc characteristic question":
+                pc.append(is_correct(item["stripped response"], item["Correct Answer"]))
+            elif item["Question Type"] == "path desc name question":
+                pn.append(is_correct(item["stripped response"], item["Correct Answer"]))
+            elif item["Question Type"] == "mixed desc characteristic question":
+                mc.append(is_correct(item["stripped response"], item["Correct Answer"]))
+            elif item["Question Type"] == "mixed desc name question":
+                mn.append(is_correct(item["stripped response"], item["Correct Answer"]))
         
         print(file_name)
-        print("No prime: ", np.mean(no_prime))
-        print("Both prime: ", np.mean(both_prime))
-        print("Lexical prime: ", np.mean(lex_prime))
-        print("Structural prime: ", np.mean(struct_prime))
-        print("Unrelated prime: ", np.mean(unrelated_prime))
+        print("AC: ", np.mean(ac))
+        print("AN: ", np.mean(an))
+        print("PC: ", np.mean(pc))
+        print("PN: ", np.mean(pn))
+        print("MC: ", np.mean(mc))
+        print("MN: ", np.mean(mn))
