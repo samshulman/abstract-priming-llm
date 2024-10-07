@@ -1,0 +1,6489 @@
+[
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            2,
+            10
+        ],
+        "Full Responses": "7, 2, 10",
+        "Stripped Response": [
+            "7",
+            "2",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            11,
+            10
+        ],
+        "Full Responses": "3, 11, 10",
+        "Stripped Response": [
+            "3",
+            "11",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            9,
+            4,
+            8
+        ],
+        "Full Responses": "5, 9, 4, 8",
+        "Stripped Response": [
+            "5",
+            "9",
+            "4",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            9,
+            11
+        ],
+        "Full Responses": "10, 9, 11",
+        "Stripped Response": [
+            "10",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            13,
+            4
+        ],
+        "Full Responses": "12, 10, 13, 4",
+        "Stripped Response": [
+            "12",
+            "10",
+            "13",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            5,
+            3,
+            14,
+            8,
+            9
+        ],
+        "Full Responses": "13, 5, 3, 14, 8, 9",
+        "Stripped Response": [
+            "13",
+            "5",
+            "3",
+            "14",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            3,
+            7
+        ],
+        "Full Responses": "4, 3, 7",
+        "Stripped Response": [
+            "4",
+            "3",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            7,
+            14,
+            10
+        ],
+        "Full Responses": "4, 7, 14, 10",
+        "Stripped Response": [
+            "4",
+            "7",
+            "14",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            13,
+            14,
+            5
+        ],
+        "Full Responses": "10, 13, 14, 5",
+        "Stripped Response": [
+            "10",
+            "13",
+            "14",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            4,
+            12
+        ],
+        "Full Responses": "3, 4, 12",
+        "Stripped Response": [
+            "3",
+            "4",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            14,
+            8,
+            4
+        ],
+        "Full Responses": "5, 14, 8, 4",
+        "Stripped Response": [
+            "5",
+            "14",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            8,
+            2,
+            6,
+            1,
+            14,
+            12
+        ],
+        "Full Responses": "8, 2, 14, 12",
+        "Stripped Response": [
+            "8",
+            "2",
+            "14",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "Full Responses": "3, 1, 5, 4",
+        "Stripped Response": [
+            "3",
+            "1",
+            "5",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            12,
+            8,
+            14
+        ],
+        "Full Responses": "10, 12, 8, 14",
+        "Stripped Response": [
+            "10",
+            "12",
+            "8",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            2,
+            13,
+            11,
+            4
+        ],
+        "Full Responses": "2, 13, 11, 4",
+        "Stripped Response": [
+            "2",
+            "13",
+            "11",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            11,
+            12,
+            10,
+            4
+        ],
+        "Full Responses": "11, 12, 10, 4",
+        "Stripped Response": [
+            "11",
+            "12",
+            "10",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            1,
+            10,
+            12,
+            6,
+            3
+        ],
+        "Full Responses": "1, 10, 6, 3",
+        "Stripped Response": [
+            "1",
+            "10",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            11,
+            10,
+            5
+        ],
+        "Full Responses": "9, 11, 10, 5",
+        "Stripped Response": [
+            "9",
+            "11",
+            "10",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            9,
+            7
+        ],
+        "Full Responses": "12, 9, 7",
+        "Stripped Response": [
+            "12",
+            "9",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            2,
+            12,
+            11,
+            5
+        ],
+        "Full Responses": "10, 2, 12, 11, 5",
+        "Stripped Response": [
+            "10",
+            "2",
+            "12",
+            "11",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            6,
+            10,
+            7
+        ],
+        "Full Responses": "6, 10, 7",
+        "Stripped Response": [
+            "6",
+            "10",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            8,
+            1,
+            13,
+            7,
+            12,
+            6
+        ],
+        "Full Responses": "8, 1, 13, 7, 12, 6",
+        "Stripped Response": [
+            "8",
+            "1",
+            "13",
+            "7",
+            "12",
+            "6"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            6,
+            12
+        ],
+        "Full Responses": "9, 6, 12",
+        "Stripped Response": [
+            "9",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            9,
+            11
+        ],
+        "Full Responses": "7, 9, 11",
+        "Stripped Response": [
+            "7",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            14,
+            6,
+            4,
+            13
+        ],
+        "Full Responses": "14, 6, 4, 13",
+        "Stripped Response": [
+            "14",
+            "6",
+            "4",
+            "13"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            9,
+            2,
+            12,
+            11
+        ],
+        "Full Responses": "13, 9, 1, 7, 11",
+        "Stripped Response": [
+            "13",
+            "9",
+            "1",
+            "7",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            10,
+            6,
+            3,
+            1
+        ],
+        "Full Responses": "13, 10, 6, 3, 1",
+        "Stripped Response": [
+            "13",
+            "10",
+            "6",
+            "3",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            6,
+            11
+        ],
+        "Full Responses": "7, 6, 11",
+        "Stripped Response": [
+            "7",
+            "6",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            11,
+            5
+        ],
+        "Full Responses": "12, 10, 5",
+        "Stripped Response": [
+            "12",
+            "10",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            1,
+            13,
+            14
+        ],
+        "Full Responses": "10, 1, 13, 14",
+        "Stripped Response": [
+            "10",
+            "1",
+            "13",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            9,
+            2,
+            6,
+            4
+        ],
+        "Full Responses": "7, 9, 2, 6, 4",
+        "Stripped Response": [
+            "7",
+            "9",
+            "2",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            6,
+            1
+        ],
+        "Full Responses": "13, 6, 1",
+        "Stripped Response": [
+            "13",
+            "6",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            7,
+            5
+        ],
+        "Full Responses": "10, 7, 5",
+        "Stripped Response": [
+            "10",
+            "7",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            6,
+            8
+        ],
+        "Full Responses": "12, 6, 8",
+        "Stripped Response": [
+            "12",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            6,
+            11,
+            8
+        ],
+        "Full Responses": "6, 11, 8",
+        "Stripped Response": [
+            "6",
+            "11",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            14,
+            12,
+            2,
+            9,
+            11
+        ],
+        "Full Responses": "14, 12, 2, 9, 11",
+        "Stripped Response": [
+            "14",
+            "12",
+            "2",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            1,
+            4,
+            5,
+            6,
+            10
+        ],
+        "Full Responses": "1, 4, 5, 6, 10",
+        "Stripped Response": [
+            "1",
+            "4",
+            "5",
+            "6",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            8,
+            12,
+            1,
+            14
+        ],
+        "Full Responses": "7, 8, 2, 1, 14",
+        "Stripped Response": [
+            "7",
+            "8",
+            "2",
+            "1",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            9,
+            6,
+            12,
+            4,
+            2,
+            11
+        ],
+        "Full Responses": "5, 9, 6, 12, 10, 4, 2, 11",
+        "Stripped Response": [
+            "5",
+            "9",
+            "6",
+            "12",
+            "10",
+            "4",
+            "2",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            3,
+            12,
+            13
+        ],
+        "Full Responses": "4, 3, 12, 13",
+        "Stripped Response": [
+            "4",
+            "3",
+            "12",
+            "13"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            7,
+            11
+        ],
+        "Full Responses": "3, 7, 11",
+        "Stripped Response": [
+            "3",
+            "7",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            8,
+            1,
+            12,
+            9
+        ],
+        "Full Responses": "4, 8, 2, 9",
+        "Stripped Response": [
+            "4",
+            "8",
+            "2",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            11,
+            9
+        ],
+        "Full Responses": "10, 11, 9",
+        "Stripped Response": [
+            "10",
+            "11",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            6,
+            5,
+            14
+        ],
+        "Full Responses": "12, 6, 5, 14",
+        "Stripped Response": [
+            "12",
+            "6",
+            "5",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            11,
+            1,
+            4
+        ],
+        "Full Responses": "11, 1, 4",
+        "Stripped Response": [
+            "11",
+            "1",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            5,
+            11
+        ],
+        "Full Responses": "3, 5, 11",
+        "Stripped Response": [
+            "3",
+            "5",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            11,
+            2,
+            10
+        ],
+        "Full Responses": "11, 2, 10",
+        "Stripped Response": [
+            "11",
+            "2",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            7,
+            13
+        ],
+        "Full Responses": "3, 7, 13",
+        "Stripped Response": [
+            "3",
+            "7",
+            "13"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            14,
+            6,
+            2
+        ],
+        "Full Responses": "14, 6, 2",
+        "Stripped Response": [
+            "14",
+            "6",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            7,
+            12,
+            2
+        ],
+        "Full Responses": "13, 7, 12, 2",
+        "Stripped Response": [
+            "13",
+            "7",
+            "12",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            8,
+            9,
+            4,
+            14
+        ],
+        "Full Responses": "8, 9, 4, 14",
+        "Stripped Response": [
+            "8",
+            "9",
+            "4",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            14,
+            13,
+            2
+        ],
+        "Full Responses": "9, 10, 13, 2",
+        "Stripped Response": [
+            "9",
+            "10",
+            "13",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            3,
+            12,
+            8
+        ],
+        "Full Responses": "4, 3, 12, 8",
+        "Stripped Response": [
+            "4",
+            "3",
+            "12",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            11,
+            8,
+            5,
+            7
+        ],
+        "Full Responses": "12, 10, 11, 8, 5, 7",
+        "Stripped Response": [
+            "12",
+            "10",
+            "11",
+            "8",
+            "5",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            6,
+            3
+        ],
+        "Full Responses": "13, 6, 3",
+        "Stripped Response": [
+            "13",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            10,
+            11,
+            5,
+            9,
+            12
+        ],
+        "Full Responses": "10, 11, 5, 9, 12",
+        "Stripped Response": [
+            "10",
+            "11",
+            "5",
+            "9",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            8,
+            4
+        ],
+        "Full Responses": "12, 8, 4",
+        "Stripped Response": [
+            "12",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            5,
+            2,
+            4,
+            10
+        ],
+        "Full Responses": "3, 14, 6, 4, 10",
+        "Stripped Response": [
+            "3",
+            "14",
+            "6",
+            "4",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            1,
+            5,
+            9,
+            14
+        ],
+        "Full Responses": "4, 1, 5, 9, 14",
+        "Stripped Response": [
+            "4",
+            "1",
+            "5",
+            "9",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            11,
+            2
+        ],
+        "Full Responses": "12, 11, 2",
+        "Stripped Response": [
+            "12",
+            "11",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            2,
+            8
+        ],
+        "Full Responses": "4, 2, 8",
+        "Stripped Response": [
+            "4",
+            "2",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            6,
+            12,
+            2,
+            1
+        ],
+        "Full Responses": "4, 6, 12, 2, 1",
+        "Stripped Response": [
+            "4",
+            "6",
+            "12",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            11,
+            14,
+            2,
+            10
+        ],
+        "Full Responses": "5, 11, 14, 2, 10",
+        "Stripped Response": [
+            "5",
+            "11",
+            "14",
+            "2",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            13,
+            1,
+            4
+        ],
+        "Full Responses": "3, 13, 1, 4",
+        "Stripped Response": [
+            "3",
+            "13",
+            "1",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            6,
+            14,
+            1,
+            9,
+            11
+        ],
+        "Full Responses": "6, 14, 1, 9, 11",
+        "Stripped Response": [
+            "6",
+            "14",
+            "1",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            7,
+            8
+        ],
+        "Full Responses": "9, 7, 8",
+        "Stripped Response": [
+            "9",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            1,
+            6
+        ],
+        "Full Responses": "3, 1, 6",
+        "Stripped Response": [
+            "3",
+            "1",
+            "6"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            6,
+            1,
+            11,
+            3,
+            14
+        ],
+        "Full Responses": "6, 1, 3, 14",
+        "Stripped Response": [
+            "6",
+            "1",
+            "3",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            10
+        ],
+        "Full Responses": "9, 5, 10",
+        "Stripped Response": [
+            "9",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            8,
+            1,
+            14,
+            7
+        ],
+        "Full Responses": "8, 1, 14, 7",
+        "Stripped Response": [
+            "8",
+            "1",
+            "14",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            4,
+            11
+        ],
+        "Full Responses": "9, 4, 11",
+        "Stripped Response": [
+            "9",
+            "4",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            2
+        ],
+        "Full Responses": "12, 10, 2",
+        "Stripped Response": [
+            "12",
+            "10",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            8,
+            12,
+            10
+        ],
+        "Full Responses": "13, 8, 12, 10",
+        "Stripped Response": [
+            "13",
+            "8",
+            "12",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            12,
+            5
+        ],
+        "Full Responses": "4, 12, 5",
+        "Stripped Response": [
+            "4",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            14,
+            9,
+            1,
+            3,
+            4,
+            2
+        ],
+        "Full Responses": "14, 9, 1, 3, 4, 2",
+        "Stripped Response": [
+            "14",
+            "9",
+            "1",
+            "3",
+            "4",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            3,
+            7,
+            6,
+            1,
+            9
+        ],
+        "Full Responses": "3, 7, 6, 1, 9",
+        "Stripped Response": [
+            "3",
+            "7",
+            "6",
+            "1",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            1,
+            12,
+            14,
+            5
+        ],
+        "Full Responses": "4, 1, 12, 14, 5",
+        "Stripped Response": [
+            "4",
+            "1",
+            "12",
+            "14",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            13,
+            7,
+            2
+        ],
+        "Full Responses": "13, 7, 2",
+        "Stripped Response": [
+            "13",
+            "7",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            6,
+            12,
+            5,
+            11,
+            8
+        ],
+        "Full Responses": "6, 12, 5, 11, 8",
+        "Stripped Response": [
+            "6",
+            "12",
+            "5",
+            "11",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            6,
+            10,
+            7
+        ],
+        "Full Responses": "5, 6, 10, 7",
+        "Stripped Response": [
+            "5",
+            "6",
+            "10",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            8,
+            1
+        ],
+        "Full Responses": "9, 8, 1",
+        "Stripped Response": [
+            "9",
+            "8",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            11,
+            12
+        ],
+        "Full Responses": "5, 11, 12",
+        "Stripped Response": [
+            "5",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            1,
+            2
+        ],
+        "Full Responses": "9, 1, 2",
+        "Stripped Response": [
+            "9",
+            "1",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            2,
+            3
+        ],
+        "Full Responses": "7, 2, 3",
+        "Stripped Response": [
+            "7",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            2
+        ],
+        "Full Responses": "9, 5, 2",
+        "Stripped Response": [
+            "9",
+            "5",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            10,
+            3,
+            9
+        ],
+        "Full Responses": "5, 10, 3, 9",
+        "Stripped Response": [
+            "5",
+            "10",
+            "3",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            9,
+            8
+        ],
+        "Full Responses": "5, 9, 8",
+        "Stripped Response": [
+            "5",
+            "9",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            10,
+            3,
+            9,
+            2,
+            12
+        ],
+        "Full Responses": "4, 10, 3, 2, 12",
+        "Stripped Response": [
+            "4",
+            "10",
+            "3",
+            "2",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            8,
+            14,
+            6,
+            3
+        ],
+        "Full Responses": "8, 14, 6, 3",
+        "Stripped Response": [
+            "8",
+            "14",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            13,
+            12,
+            14,
+            7
+        ],
+        "Full Responses": "9, 5, 13, 12, 14, 7",
+        "Stripped Response": [
+            "9",
+            "5",
+            "13",
+            "12",
+            "14",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            11,
+            2,
+            4,
+            14,
+            7,
+            8
+        ],
+        "Full Responses": "11, 2, 4, 14, 7, 8",
+        "Stripped Response": [
+            "11",
+            "2",
+            "4",
+            "14",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            9,
+            11
+        ],
+        "Full Responses": "7, 9, 11",
+        "Stripped Response": [
+            "7",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            5,
+            12,
+            1,
+            13,
+            14,
+            8,
+            9
+        ],
+        "Full Responses": "5, 12, 1, 13, 14, 8, 9",
+        "Stripped Response": [
+            "5",
+            "12",
+            "1",
+            "13",
+            "14",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            8,
+            6,
+            7,
+            5,
+            10
+        ],
+        "Full Responses": "8, 6, 7, 5, 10",
+        "Stripped Response": [
+            "8",
+            "6",
+            "7",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            5,
+            6,
+            1
+        ],
+        "Full Responses": "4, 5, 6, 1",
+        "Stripped Response": [
+            "4",
+            "5",
+            "6",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            2,
+            3,
+            13,
+            7,
+            12,
+            5
+        ],
+        "Full Responses": "2, 3, 13, 7, 12, 5",
+        "Stripped Response": [
+            "2",
+            "3",
+            "13",
+            "7",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            14,
+            9,
+            12,
+            7,
+            10
+        ],
+        "Full Responses": "14, 9, 12, 7, 10",
+        "Stripped Response": [
+            "14",
+            "9",
+            "12",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            7,
+            8,
+            1,
+            14
+        ],
+        "Full Responses": "7, 8, 1, 14",
+        "Stripped Response": [
+            "7",
+            "8",
+            "1",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            9,
+            11,
+            7,
+            8
+        ],
+        "Full Responses": "9, 11, 7, 8",
+        "Stripped Response": [
+            "9",
+            "11",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Room Desc, Room Question",
+        "Correct Answer": [
+            4,
+            7,
+            10,
+            12,
+            5
+        ],
+        "Full Responses": "4, 7, 10, 12, 5",
+        "Stripped Response": [
+            "4",
+            "7",
+            "10",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "cyan",
+            "red",
+            "blue"
+        ],
+        "Full Responses": "Yellow, Cyan, Red, Blue",
+        "Stripped Response": [
+            "Yellow",
+            "Cyan",
+            "Red",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "red",
+            "orange",
+            "beige",
+            "indigo"
+        ],
+        "Full Responses": "Pink, Red, Orange, Beige, Indigo",
+        "Stripped Response": [
+            "Pink",
+            "Red",
+            "Orange",
+            "Beige",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "orange",
+            "beige"
+        ],
+        "Full Responses": "Turquoise, Beige",
+        "Stripped Response": [
+            "Turquoise",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "indigo",
+            "navy",
+            "purple",
+            "cyan",
+            "red"
+        ],
+        "Full Responses": "Yellow, Indigo, Green, Red",
+        "Stripped Response": [
+            "Yellow",
+            "Indigo",
+            "Green",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "indigo",
+            "beige"
+        ],
+        "Full Responses": "Yellow, Indigo, Beige",
+        "Stripped Response": [
+            "Yellow",
+            "Indigo",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "navy",
+            "green",
+            "turquoise",
+            "indigo"
+        ],
+        "Full Responses": "Orange, Navy, Green, Turquoise, Indigo",
+        "Stripped Response": [
+            "Orange",
+            "Navy",
+            "Green",
+            "Turquoise",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "red",
+            "magenta",
+            "green"
+        ],
+        "Full Responses": "Red, Magenta, Green",
+        "Stripped Response": [
+            "Red",
+            "Magenta",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "turquoise",
+            "blue",
+            "purple",
+            "cyan"
+        ],
+        "Full Responses": "Grey, Turquoise, Blue, Purple, Cyan",
+        "Stripped Response": [
+            "Grey",
+            "Turquoise",
+            "Blue",
+            "Purple",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "green",
+            "turquoise",
+            "indigo"
+        ],
+        "Full Responses": "Beige, Green, Turquoise, Indigo",
+        "Stripped Response": [
+            "Beige",
+            "Green",
+            "Turquoise",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "magenta",
+            "cyan"
+        ],
+        "Full Responses": "Beige, Magenta, Cyan",
+        "Stripped Response": [
+            "Beige",
+            "Magenta",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "purple",
+            "indigo",
+            "grey",
+            "pink"
+        ],
+        "Full Responses": "Purple, Indigo, Grey, Pink",
+        "Stripped Response": [
+            "Purple",
+            "Indigo",
+            "Grey",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "purple",
+            "orange",
+            "cyan",
+            "yellow",
+            "grey"
+        ],
+        "Full Responses": "Beige, Purple, Orange, Cyan, Yellow, Grey",
+        "Stripped Response": [
+            "Beige",
+            "Purple",
+            "Orange",
+            "Cyan",
+            "Yellow",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "cyan",
+            "purple",
+            "orange"
+        ],
+        "Full Responses": "Grey, Cyan, Purple, Orange",
+        "Stripped Response": [
+            "Grey",
+            "Cyan",
+            "Purple",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "yellow",
+            "navy"
+        ],
+        "Full Responses": "Beige, Yellow, Navy",
+        "Stripped Response": [
+            "Beige",
+            "Yellow",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "navy",
+            "green"
+        ],
+        "Full Responses": "Orange, Navy, Green",
+        "Stripped Response": [
+            "Orange",
+            "Navy",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "red",
+            "turquoise",
+            "yellow",
+            "magenta",
+            "orange"
+        ],
+        "Full Responses": "Red, Turquoise, Yellow, Magenta, Orange",
+        "Stripped Response": [
+            "Red",
+            "Turquoise",
+            "Yellow",
+            "Magenta",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "grey",
+            "red",
+            "purple"
+        ],
+        "Full Responses": "Indigo, Grey, Red, Purple",
+        "Stripped Response": [
+            "Indigo",
+            "Grey",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "orange",
+            "navy",
+            "grey",
+            "indigo"
+        ],
+        "Full Responses": "Beige, Orange, Navy, Indigo",
+        "Stripped Response": [
+            "Beige",
+            "Orange",
+            "Navy",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "navy",
+            "magenta",
+            "grey",
+            "cyan"
+        ],
+        "Full Responses": "Navy, Pink, Beige, Yellow, Grey, Cyan",
+        "Stripped Response": [
+            "Navy",
+            "Pink",
+            "Beige",
+            "Yellow",
+            "Grey",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "red",
+            "beige",
+            "orange",
+            "grey"
+        ],
+        "Full Responses": "Pink, Red, Orange, Grey",
+        "Stripped Response": [
+            "Pink",
+            "Red",
+            "Orange",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "navy",
+            "turquoise",
+            "green",
+            "magenta",
+            "orange"
+        ],
+        "Full Responses": "Navy, Indigo, Turquoise, Green, Magenta, Orange",
+        "Stripped Response": [
+            "Navy",
+            "Indigo",
+            "Turquoise",
+            "Green",
+            "Magenta",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "magenta",
+            "purple",
+            "cyan",
+            "indigo"
+        ],
+        "Full Responses": "Grey, Magenta, Blue, Red, Cyan, Indigo",
+        "Stripped Response": [
+            "Grey",
+            "Magenta",
+            "Blue",
+            "Red",
+            "Cyan",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "beige",
+            "blue"
+        ],
+        "Full Responses": "Indigo, Beige, Blue",
+        "Stripped Response": [
+            "Indigo",
+            "Beige",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "navy",
+            "blue",
+            "yellow",
+            "orange",
+            "red"
+        ],
+        "Full Responses": "Turquoise, Navy, Blue, Yellow, Orange, Red",
+        "Stripped Response": [
+            "Turquoise",
+            "Navy",
+            "Blue",
+            "Yellow",
+            "Orange",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "navy",
+            "purple"
+        ],
+        "Full Responses": "Pink, Navy, Purple",
+        "Stripped Response": [
+            "Pink",
+            "Navy",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "red",
+            "navy",
+            "pink",
+            "purple",
+            "grey",
+            "turquoise"
+        ],
+        "Full Responses": "Orange, Red, Navy, Pink, Purple, Grey, Turquoise",
+        "Stripped Response": [
+            "Orange",
+            "Red",
+            "Navy",
+            "Pink",
+            "Purple",
+            "Grey",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "turquoise",
+            "yellow",
+            "cyan"
+        ],
+        "Full Responses": "Pink, Turquoise, Yellow, Cyan",
+        "Stripped Response": [
+            "Pink",
+            "Turquoise",
+            "Yellow",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "magenta",
+            "cyan",
+            "purple",
+            "yellow",
+            "grey",
+            "indigo"
+        ],
+        "Full Responses": "Pink, Magenta, Cyan, Purple, Yellow, Grey, Indigo",
+        "Stripped Response": [
+            "Pink",
+            "Magenta",
+            "Cyan",
+            "Purple",
+            "Yellow",
+            "Grey",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "navy",
+            "red",
+            "green",
+            "pink"
+        ],
+        "Full Responses": "Navy, Red, Green, Pink",
+        "Stripped Response": [
+            "Navy",
+            "Red",
+            "Green",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "blue",
+            "grey",
+            "indigo"
+        ],
+        "Full Responses": "Cyan, Blue, Grey, Indigo",
+        "Stripped Response": [
+            "Cyan",
+            "Blue",
+            "Grey",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "turquoise",
+            "purple",
+            "orange"
+        ],
+        "Full Responses": "Pink, Turquoise, Purple, Orange",
+        "Stripped Response": [
+            "Pink",
+            "Turquoise",
+            "Purple",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "turquoise",
+            "orange",
+            "magenta",
+            "green",
+            "beige"
+        ],
+        "Full Responses": "Indigo, Turquoise, Orange, Magenta, Green, Beige",
+        "Stripped Response": [
+            "Indigo",
+            "Turquoise",
+            "Orange",
+            "Magenta",
+            "Green",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "blue",
+            "beige",
+            "purple",
+            "grey"
+        ],
+        "Full Responses": "Blue, Beige, Purple, Grey",
+        "Stripped Response": [
+            "Blue",
+            "Beige",
+            "Purple",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "purple",
+            "turquoise",
+            "blue"
+        ],
+        "Full Responses": "Beige, Purple, Turquoise, Blue",
+        "Stripped Response": [
+            "Beige",
+            "Purple",
+            "Turquoise",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "green",
+            "cyan",
+            "blue",
+            "orange"
+        ],
+        "Full Responses": "Turquoise, Green, Cyan, Blue, Orange",
+        "Stripped Response": [
+            "Turquoise",
+            "Green",
+            "Cyan",
+            "Blue",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "magenta",
+            "orange",
+            "turquoise",
+            "red",
+            "navy"
+        ],
+        "Full Responses": "Magenta, Orange, Navy",
+        "Stripped Response": [
+            "Magenta",
+            "Orange",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "green",
+            "beige",
+            "yellow"
+        ],
+        "Full Responses": "Grey, Green, Beige, Yellow",
+        "Stripped Response": [
+            "Grey",
+            "Green",
+            "Beige",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "red",
+            "pink",
+            "navy",
+            "turquoise",
+            "beige"
+        ],
+        "Full Responses": "Cyan, Red, Pink, Navy, Turquoise, Beige",
+        "Stripped Response": [
+            "Cyan",
+            "Red",
+            "Pink",
+            "Navy",
+            "Turquoise",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "green",
+            "yellow",
+            "indigo"
+        ],
+        "Full Responses": "Green, Yellow, Indigo",
+        "Stripped Response": [
+            "Green",
+            "Yellow",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "cyan",
+            "grey"
+        ],
+        "Full Responses": "Yellow, Cyan, Grey",
+        "Stripped Response": [
+            "Yellow",
+            "Cyan",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "red",
+            "pink",
+            "indigo",
+            "blue",
+            "navy"
+        ],
+        "Full Responses": "Grey, Red, Pink, Indigo, Blue, Navy",
+        "Stripped Response": [
+            "Grey",
+            "Red",
+            "Pink",
+            "Indigo",
+            "Blue",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "magenta",
+            "red"
+        ],
+        "Full Responses": "Turquoise, Magenta, Red",
+        "Stripped Response": [
+            "Turquoise",
+            "Magenta",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "purple",
+            "beige",
+            "grey"
+        ],
+        "Full Responses": "Purple, Beige, Grey",
+        "Stripped Response": [
+            "Purple",
+            "Beige",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "purple",
+            "magenta",
+            "turquoise"
+        ],
+        "Full Responses": "Purple, Magenta, Turquoise",
+        "Stripped Response": [
+            "Purple",
+            "Magenta",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "turquoise",
+            "beige"
+        ],
+        "Full Responses": "Grey, Turquoise, Beige",
+        "Stripped Response": [
+            "Grey",
+            "Turquoise",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "cyan",
+            "beige"
+        ],
+        "Full Responses": "Indigo, Cyan, Beige",
+        "Stripped Response": [
+            "Indigo",
+            "Cyan",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "indigo",
+            "pink"
+        ],
+        "Full Responses": "Cyan, Indigo, Pink",
+        "Stripped Response": [
+            "Cyan",
+            "Indigo",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "orange",
+            "grey",
+            "purple",
+            "yellow"
+        ],
+        "Full Responses": "Cyan, Beige, Purple, Yellow",
+        "Stripped Response": [
+            "Cyan",
+            "Beige",
+            "Purple",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "indigo",
+            "purple",
+            "cyan",
+            "navy"
+        ],
+        "Full Responses": "Orange, Indigo, Purple, Cyan, Navy",
+        "Stripped Response": [
+            "Orange",
+            "Indigo",
+            "Purple",
+            "Cyan",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "yellow",
+            "beige"
+        ],
+        "Full Responses": "Indigo, Yellow, Beige",
+        "Stripped Response": [
+            "Indigo",
+            "Yellow",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "navy",
+            "green",
+            "orange"
+        ],
+        "Full Responses": "Navy, Green, Orange",
+        "Stripped Response": [
+            "Navy",
+            "Green",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "magenta",
+            "orange"
+        ],
+        "Full Responses": "Turquoise, Magenta, Orange",
+        "Stripped Response": [
+            "Turquoise",
+            "Magenta",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "grey",
+            "turquoise",
+            "green"
+        ],
+        "Full Responses": "Orange, Grey, Turquoise, Green",
+        "Stripped Response": [
+            "Orange",
+            "Grey",
+            "Turquoise",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "turquoise",
+            "green"
+        ],
+        "Full Responses": "Orange, Turquoise, Green",
+        "Stripped Response": [
+            "Orange",
+            "Turquoise",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "red",
+            "yellow",
+            "blue",
+            "pink",
+            "purple",
+            "navy"
+        ],
+        "Full Responses": "Red, Yellow, Blue, Pink, Purple, Navy",
+        "Stripped Response": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Pink",
+            "Purple",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "red",
+            "blue",
+            "yellow",
+            "cyan",
+            "purple"
+        ],
+        "Full Responses": "Pink, Red, Cyan, Purple",
+        "Stripped Response": [
+            "Pink",
+            "Red",
+            "Cyan",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "beige",
+            "purple"
+        ],
+        "Full Responses": "Orange, Beige, Purple",
+        "Stripped Response": [
+            "Orange",
+            "Beige",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "green",
+            "purple",
+            "beige",
+            "orange"
+        ],
+        "Full Responses": "Green, Purple, Beige, Orange",
+        "Stripped Response": [
+            "Green",
+            "Purple",
+            "Beige",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "green",
+            "magenta"
+        ],
+        "Full Responses": "Beige, Green, Magenta",
+        "Stripped Response": [
+            "Beige",
+            "Green",
+            "Magenta"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "green",
+            "purple",
+            "indigo"
+        ],
+        "Full Responses": "Green, Purple, Indigo",
+        "Stripped Response": [
+            "Green",
+            "Purple",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "red",
+            "purple"
+        ],
+        "Full Responses": "Indigo, Purple",
+        "Stripped Response": [
+            "Indigo",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "orange",
+            "pink",
+            "red",
+            "blue",
+            "grey"
+        ],
+        "Full Responses": "Indigo, Orange, Pink, Red, Blue, Grey",
+        "Stripped Response": [
+            "Indigo",
+            "Orange",
+            "Pink",
+            "Red",
+            "Blue",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "orange",
+            "turquoise",
+            "grey"
+        ],
+        "Full Responses": "Pink, Orange, Turquoise, Grey",
+        "Stripped Response": [
+            "Pink",
+            "Orange",
+            "Turquoise",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "yellow",
+            "green",
+            "red"
+        ],
+        "Full Responses": "Pink, Yellow, Green, Red",
+        "Stripped Response": [
+            "Pink",
+            "Yellow",
+            "Green",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "magenta",
+            "orange",
+            "grey",
+            "cyan",
+            "green"
+        ],
+        "Full Responses": "Magenta, Orange, Grey, Cyan, Green",
+        "Stripped Response": [
+            "Magenta",
+            "Orange",
+            "Grey",
+            "Cyan",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "red",
+            "grey",
+            "orange",
+            "pink"
+        ],
+        "Full Responses": "Red, Grey, Orange, Pink",
+        "Stripped Response": [
+            "Red",
+            "Grey",
+            "Orange",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "blue",
+            "orange",
+            "yellow",
+            "green"
+        ],
+        "Full Responses": "Pink, Blue, Orange, Yellow, Green",
+        "Stripped Response": [
+            "Pink",
+            "Blue",
+            "Orange",
+            "Yellow",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "blue",
+            "grey",
+            "turquoise"
+        ],
+        "Full Responses": "Blue, Grey, Turquoise",
+        "Stripped Response": [
+            "Blue",
+            "Grey",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "beige",
+            "cyan",
+            "red",
+            "purple"
+        ],
+        "Full Responses": "Pink, Beige, Cyan, Red, Purple",
+        "Stripped Response": [
+            "Pink",
+            "Beige",
+            "Cyan",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "turquoise",
+            "beige",
+            "indigo"
+        ],
+        "Full Responses": "Pink, Turquoise, Beige, Indigo",
+        "Stripped Response": [
+            "Pink",
+            "Turquoise",
+            "Beige",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "green",
+            "red",
+            "purple",
+            "magenta"
+        ],
+        "Full Responses": "Beige, Green, Red, Purple, Magenta",
+        "Stripped Response": [
+            "Beige",
+            "Green",
+            "Red",
+            "Purple",
+            "Magenta"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "magenta",
+            "navy",
+            "pink",
+            "green"
+        ],
+        "Full Responses": "Yellow, Magenta, Navy, Pink, Green",
+        "Stripped Response": [
+            "Yellow",
+            "Magenta",
+            "Navy",
+            "Pink",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "purple",
+            "indigo",
+            "green"
+        ],
+        "Full Responses": "Purple, Indigo, Green",
+        "Stripped Response": [
+            "Purple",
+            "Indigo",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "navy",
+            "purple",
+            "red"
+        ],
+        "Full Responses": "Navy, Purple, Red",
+        "Stripped Response": [
+            "Navy",
+            "Purple",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "beige",
+            "pink",
+            "grey"
+        ],
+        "Full Responses": "Turquoise, Beige, Pink, Grey",
+        "Stripped Response": [
+            "Turquoise",
+            "Beige",
+            "Pink",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "pink",
+            "navy",
+            "turquoise"
+        ],
+        "Full Responses": "Pink, Navy, Turquoise",
+        "Stripped Response": [
+            "Pink",
+            "Navy",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "orange",
+            "blue",
+            "cyan"
+        ],
+        "Full Responses": "Grey, Orange, Blue, Cyan",
+        "Stripped Response": [
+            "Grey",
+            "Orange",
+            "Blue",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "green",
+            "red",
+            "beige"
+        ],
+        "Full Responses": "Green, Red, Beige",
+        "Stripped Response": [
+            "Green",
+            "Red",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "pink",
+            "beige",
+            "green"
+        ],
+        "Full Responses": "Turquoise, Pink, Beige, Green",
+        "Stripped Response": [
+            "Turquoise",
+            "Pink",
+            "Beige",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "orange",
+            "red",
+            "beige"
+        ],
+        "Full Responses": "Orange, Red, Beige",
+        "Stripped Response": [
+            "Orange",
+            "Red",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "green",
+            "indigo",
+            "magenta",
+            "cyan"
+        ],
+        "Full Responses": "Turquoise, Green, Indigo, Magenta, Cyan",
+        "Stripped Response": [
+            "Turquoise",
+            "Green",
+            "Indigo",
+            "Magenta",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "grey",
+            "magenta",
+            "turquoise",
+            "indigo",
+            "navy",
+            "pink"
+        ],
+        "Full Responses": "Grey, Magenta, Cyan, Red, Cyan, Magenta, Turquoise, Indigo, Navy, Pink",
+        "Stripped Response": [
+            "Grey",
+            "Magenta",
+            "Cyan",
+            "Red",
+            "Cyan",
+            "Magenta",
+            "Turquoise",
+            "Indigo",
+            "Navy",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "beige",
+            "turquoise"
+        ],
+        "Full Responses": "Indigo, Beige, Turquoise",
+        "Stripped Response": [
+            "Indigo",
+            "Beige",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "blue",
+            "orange",
+            "turquoise",
+            "grey"
+        ],
+        "Full Responses": "Blue, Orange, Turquoise, Grey",
+        "Stripped Response": [
+            "Blue",
+            "Orange",
+            "Turquoise",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "blue",
+            "orange",
+            "grey",
+            "beige",
+            "turquoise"
+        ],
+        "Full Responses": "Blue, Orange, Grey, Beige, Turquoise",
+        "Stripped Response": [
+            "Blue",
+            "Orange",
+            "Grey",
+            "Beige",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "red",
+            "beige",
+            "purple",
+            "orange",
+            "blue"
+        ],
+        "Full Responses": "Red, Beige, Purple, Orange, Blue",
+        "Stripped Response": [
+            "Red",
+            "Beige",
+            "Purple",
+            "Orange",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "cyan",
+            "pink",
+            "indigo"
+        ],
+        "Full Responses": "Turquoise, Pink, Indigo",
+        "Stripped Response": [
+            "Turquoise",
+            "Pink",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "orange",
+            "yellow",
+            "navy",
+            "purple"
+        ],
+        "Full Responses": "Indigo, Orange, Navy, Purple",
+        "Stripped Response": [
+            "Indigo",
+            "Orange",
+            "Navy",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "magenta",
+            "navy",
+            "indigo"
+        ],
+        "Full Responses": "Magenta, Navy, Indigo",
+        "Stripped Response": [
+            "Magenta",
+            "Navy",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "turquoise",
+            "grey",
+            "indigo",
+            "navy"
+        ],
+        "Full Responses": "Beige, Turquoise, Grey, Indigo, Navy",
+        "Stripped Response": [
+            "Beige",
+            "Turquoise",
+            "Grey",
+            "Indigo",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "blue",
+            "red",
+            "beige",
+            "magenta",
+            "yellow"
+        ],
+        "Full Responses": "Blue, Red, Beige, Magenta, Yellow",
+        "Stripped Response": [
+            "Blue",
+            "Red",
+            "Beige",
+            "Magenta",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "red",
+            "cyan",
+            "green",
+            "orange",
+            "indigo"
+        ],
+        "Full Responses": "Red, Cyan, Green, Orange, Indigo",
+        "Stripped Response": [
+            "Red",
+            "Cyan",
+            "Green",
+            "Orange",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "cyan",
+            "grey",
+            "orange",
+            "red"
+        ],
+        "Full Responses": "Yellow, Cyan, Grey, Orange, Red",
+        "Stripped Response": [
+            "Yellow",
+            "Cyan",
+            "Grey",
+            "Orange",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "beige",
+            "navy",
+            "purple",
+            "yellow"
+        ],
+        "Full Responses": "Beige, Navy, Purple, Yellow",
+        "Stripped Response": [
+            "Beige",
+            "Navy",
+            "Purple",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "purple",
+            "turquoise"
+        ],
+        "Full Responses": "Cyan, Purple, Turquoise",
+        "Stripped Response": [
+            "Cyan",
+            "Purple",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "navy",
+            "blue",
+            "purple",
+            "orange"
+        ],
+        "Full Responses": "Navy, Green, Cyan, Orange",
+        "Stripped Response": [
+            "Navy",
+            "Green",
+            "Cyan",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "green",
+            "yellow",
+            "orange",
+            "cyan"
+        ],
+        "Full Responses": "Green, Yellow, Orange, Cyan",
+        "Stripped Response": [
+            "Green",
+            "Yellow",
+            "Orange",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "Full Responses": "Turquoise, Red, Yellow, Green",
+        "Stripped Response": [
+            "Turquoise",
+            "Red",
+            "Yellow",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "red",
+            "pink",
+            "navy",
+            "purple"
+        ],
+        "Full Responses": "Cyan, Red, Pink, Navy, Purple",
+        "Stripped Response": [
+            "Cyan",
+            "Red",
+            "Pink",
+            "Navy",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Mapping, Color Desc, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "green",
+            "red"
+        ],
+        "Full Responses": "Turquoise, Green, Red",
+        "Stripped Response": [
+            "Turquoise",
+            "Green",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            2,
+            10
+        ],
+        "Full Responses": "7, 2, 10",
+        "Stripped Response": [
+            "7",
+            "2",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            11,
+            10
+        ],
+        "Full Responses": "3, 11, 10",
+        "Stripped Response": [
+            "3",
+            "11",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            9,
+            4,
+            8
+        ],
+        "Full Responses": "5, 9, 4, 8",
+        "Stripped Response": [
+            "5",
+            "9",
+            "4",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            9,
+            11
+        ],
+        "Full Responses": "10, 9, 11",
+        "Stripped Response": [
+            "10",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            13,
+            4
+        ],
+        "Full Responses": "12, 10, 13, 4",
+        "Stripped Response": [
+            "12",
+            "10",
+            "13",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            5,
+            3,
+            14,
+            8,
+            9
+        ],
+        "Full Responses": "13, 5, 3, 14, 8, 9",
+        "Stripped Response": [
+            "13",
+            "5",
+            "3",
+            "14",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            3,
+            7
+        ],
+        "Full Responses": "4, 3, 7",
+        "Stripped Response": [
+            "4",
+            "3",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            7,
+            14,
+            10
+        ],
+        "Full Responses": "4, 7, 14, 10",
+        "Stripped Response": [
+            "4",
+            "7",
+            "14",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            13,
+            14,
+            5
+        ],
+        "Full Responses": "10, 6, 3, 14, 5",
+        "Stripped Response": [
+            "10",
+            "6",
+            "3",
+            "14",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            4,
+            12
+        ],
+        "Full Responses": "3, 4, 12",
+        "Stripped Response": [
+            "3",
+            "4",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            14,
+            8,
+            4
+        ],
+        "Full Responses": "5, 14, 8, 4",
+        "Stripped Response": [
+            "5",
+            "14",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            8,
+            2,
+            6,
+            1,
+            14,
+            12
+        ],
+        "Full Responses": "8, 2, 1, 14, 12",
+        "Stripped Response": [
+            "8",
+            "2",
+            "1",
+            "14",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "Full Responses": "3, 1, 5, 4",
+        "Stripped Response": [
+            "3",
+            "1",
+            "5",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            12,
+            8,
+            14
+        ],
+        "Full Responses": "10, 12, 8, 14",
+        "Stripped Response": [
+            "10",
+            "12",
+            "8",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            2,
+            13,
+            11,
+            4
+        ],
+        "Full Responses": "2, 13, 11, 4",
+        "Stripped Response": [
+            "2",
+            "13",
+            "11",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            11,
+            12,
+            10,
+            4
+        ],
+        "Full Responses": "11, 12, 10, 4",
+        "Stripped Response": [
+            "11",
+            "12",
+            "10",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            1,
+            10,
+            12,
+            6,
+            3
+        ],
+        "Full Responses": "1, 10, 12, 6, 3",
+        "Stripped Response": [
+            "1",
+            "10",
+            "12",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            11,
+            10,
+            5
+        ],
+        "Full Responses": "9, 11, 10, 5",
+        "Stripped Response": [
+            "9",
+            "11",
+            "10",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            9,
+            7
+        ],
+        "Full Responses": "12, 9, 7",
+        "Stripped Response": [
+            "12",
+            "9",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            2,
+            12,
+            11,
+            5
+        ],
+        "Full Responses": "10, 2, 12, 11, 5",
+        "Stripped Response": [
+            "10",
+            "2",
+            "12",
+            "11",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            6,
+            10,
+            7
+        ],
+        "Full Responses": "6, 10, 7",
+        "Stripped Response": [
+            "6",
+            "10",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            8,
+            1,
+            13,
+            7,
+            12,
+            6
+        ],
+        "Full Responses": "8, 1, 13, 7, 12, 6",
+        "Stripped Response": [
+            "8",
+            "1",
+            "13",
+            "7",
+            "12",
+            "6"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            6,
+            12
+        ],
+        "Full Responses": "9, 6, 12",
+        "Stripped Response": [
+            "9",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            9,
+            11
+        ],
+        "Full Responses": "7, 9, 11",
+        "Stripped Response": [
+            "7",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            14,
+            6,
+            4,
+            13
+        ],
+        "Full Responses": "14, 6, 4, 13",
+        "Stripped Response": [
+            "14",
+            "6",
+            "4",
+            "13"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            9,
+            2,
+            12,
+            11
+        ],
+        "Full Responses": "13, 9, 2, 12, 11",
+        "Stripped Response": [
+            "13",
+            "9",
+            "2",
+            "12",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            10,
+            6,
+            3,
+            1
+        ],
+        "Full Responses": "13, 10, 6, 3, 1",
+        "Stripped Response": [
+            "13",
+            "10",
+            "6",
+            "3",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            6,
+            11
+        ],
+        "Full Responses": "7, 6, 11",
+        "Stripped Response": [
+            "7",
+            "6",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            11,
+            5
+        ],
+        "Full Responses": "12, 10, 5",
+        "Stripped Response": [
+            "12",
+            "10",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            1,
+            13,
+            14
+        ],
+        "Full Responses": "10, 1, 13, 14",
+        "Stripped Response": [
+            "10",
+            "1",
+            "13",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            9,
+            2,
+            6,
+            4
+        ],
+        "Full Responses": "7, 9, 2, 6, 4",
+        "Stripped Response": [
+            "7",
+            "9",
+            "2",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            6,
+            1
+        ],
+        "Full Responses": "13, 6, 1",
+        "Stripped Response": [
+            "13",
+            "6",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            7,
+            5
+        ],
+        "Full Responses": "10, 7, 5",
+        "Stripped Response": [
+            "10",
+            "7",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            6,
+            8
+        ],
+        "Full Responses": "12, 6, 8",
+        "Stripped Response": [
+            "12",
+            "6",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            6,
+            11,
+            8
+        ],
+        "Full Responses": "6, 11, 8",
+        "Stripped Response": [
+            "6",
+            "11",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            14,
+            12,
+            2,
+            9,
+            11
+        ],
+        "Full Responses": "14, 12, 2, 9, 11",
+        "Stripped Response": [
+            "14",
+            "12",
+            "2",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            1,
+            4,
+            5,
+            6,
+            10
+        ],
+        "Full Responses": "1, 4, 5, 6, 10",
+        "Stripped Response": [
+            "1",
+            "4",
+            "5",
+            "6",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            8,
+            12,
+            1,
+            14
+        ],
+        "Full Responses": "7, 8, 2, 14",
+        "Stripped Response": [
+            "7",
+            "8",
+            "2",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            9,
+            6,
+            12,
+            4,
+            2,
+            11
+        ],
+        "Full Responses": "5, 9, 6, 12, 4, 2, 11",
+        "Stripped Response": [
+            "5",
+            "9",
+            "6",
+            "12",
+            "4",
+            "2",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            3,
+            12,
+            13
+        ],
+        "Full Responses": "4, 3, 12, 13",
+        "Stripped Response": [
+            "4",
+            "3",
+            "12",
+            "13"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            7,
+            11
+        ],
+        "Full Responses": "3, 7, 11",
+        "Stripped Response": [
+            "3",
+            "7",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            8,
+            1,
+            12,
+            9
+        ],
+        "Full Responses": "4, 8, 1, 12, 9",
+        "Stripped Response": [
+            "4",
+            "8",
+            "1",
+            "12",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            11,
+            9
+        ],
+        "Full Responses": "10, 11, 9",
+        "Stripped Response": [
+            "10",
+            "11",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            6,
+            5,
+            14
+        ],
+        "Full Responses": "12, 6, 5, 14",
+        "Stripped Response": [
+            "12",
+            "6",
+            "5",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            11,
+            1,
+            4
+        ],
+        "Full Responses": "11, 1, 4",
+        "Stripped Response": [
+            "11",
+            "1",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            5,
+            11
+        ],
+        "Full Responses": "3, 5, 11",
+        "Stripped Response": [
+            "3",
+            "5",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            11,
+            2,
+            10
+        ],
+        "Full Responses": "11, 2, 10",
+        "Stripped Response": [
+            "11",
+            "2",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            7,
+            13
+        ],
+        "Full Responses": "3, 7, 13",
+        "Stripped Response": [
+            "3",
+            "7",
+            "13"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            14,
+            6,
+            2
+        ],
+        "Full Responses": "14, 6, 2",
+        "Stripped Response": [
+            "14",
+            "6",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            7,
+            12,
+            2
+        ],
+        "Full Responses": "13, 7, 12, 2",
+        "Stripped Response": [
+            "13",
+            "7",
+            "12",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            8,
+            9,
+            4,
+            14
+        ],
+        "Full Responses": "8, 9, 4, 14",
+        "Stripped Response": [
+            "8",
+            "9",
+            "4",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            14,
+            13,
+            2
+        ],
+        "Full Responses": "9, 5, 14, 13, 2",
+        "Stripped Response": [
+            "9",
+            "5",
+            "14",
+            "13",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            3,
+            12,
+            8
+        ],
+        "Full Responses": "4, 3, 12, 8",
+        "Stripped Response": [
+            "4",
+            "3",
+            "12",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            11,
+            8,
+            5,
+            7
+        ],
+        "Full Responses": "12, 10, 11, 8, 5, 7",
+        "Stripped Response": [
+            "12",
+            "10",
+            "11",
+            "8",
+            "5",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            6,
+            3
+        ],
+        "Full Responses": "13, 6, 3",
+        "Stripped Response": [
+            "13",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            10,
+            11,
+            5,
+            9,
+            12
+        ],
+        "Full Responses": "10, 11, 5, 9, 12",
+        "Stripped Response": [
+            "10",
+            "11",
+            "5",
+            "9",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            8,
+            4
+        ],
+        "Full Responses": "12, 8, 4",
+        "Stripped Response": [
+            "12",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            5,
+            2,
+            4,
+            10
+        ],
+        "Full Responses": "3, 14, 6, 10",
+        "Stripped Response": [
+            "3",
+            "14",
+            "6",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            1,
+            5,
+            9,
+            14
+        ],
+        "Full Responses": "4, 1, 5, 9, 14",
+        "Stripped Response": [
+            "4",
+            "1",
+            "5",
+            "9",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            11,
+            2
+        ],
+        "Full Responses": "12, 11, 2",
+        "Stripped Response": [
+            "12",
+            "11",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            2,
+            8
+        ],
+        "Full Responses": "4, 2, 8",
+        "Stripped Response": [
+            "4",
+            "2",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            6,
+            12,
+            2,
+            1
+        ],
+        "Full Responses": "4, 6, 12, 2, 1",
+        "Stripped Response": [
+            "4",
+            "6",
+            "12",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            11,
+            14,
+            2,
+            10
+        ],
+        "Full Responses": "5, 11, 14, 2, 10",
+        "Stripped Response": [
+            "5",
+            "11",
+            "14",
+            "2",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            13,
+            1,
+            4
+        ],
+        "Full Responses": "3, 13, 1, 4",
+        "Stripped Response": [
+            "3",
+            "13",
+            "1",
+            "4"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            6,
+            14,
+            1,
+            9,
+            11
+        ],
+        "Full Responses": "6, 14, 1, 9, 11",
+        "Stripped Response": [
+            "6",
+            "14",
+            "1",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            7,
+            8
+        ],
+        "Full Responses": "9, 7, 8",
+        "Stripped Response": [
+            "9",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            1,
+            6
+        ],
+        "Full Responses": "3, 1, 6",
+        "Stripped Response": [
+            "3",
+            "1",
+            "6"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            6,
+            1,
+            11,
+            3,
+            14
+        ],
+        "Full Responses": "6, 1, 3, 14",
+        "Stripped Response": [
+            "6",
+            "1",
+            "3",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            10
+        ],
+        "Full Responses": "9, 5, 10",
+        "Stripped Response": [
+            "9",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            8,
+            1,
+            14,
+            7
+        ],
+        "Full Responses": "8, 1, 14, 7",
+        "Stripped Response": [
+            "8",
+            "1",
+            "14",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            4,
+            11
+        ],
+        "Full Responses": "9, 4, 11",
+        "Stripped Response": [
+            "9",
+            "4",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            12,
+            10,
+            2
+        ],
+        "Full Responses": "12, 10, 2",
+        "Stripped Response": [
+            "12",
+            "10",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            8,
+            12,
+            10
+        ],
+        "Full Responses": "13, 8, 12, 10",
+        "Stripped Response": [
+            "13",
+            "8",
+            "12",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            12,
+            5
+        ],
+        "Full Responses": "4, 12, 5",
+        "Stripped Response": [
+            "4",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            14,
+            9,
+            1,
+            3,
+            4,
+            2
+        ],
+        "Full Responses": "14, 9, 1, 3, 4, 2",
+        "Stripped Response": [
+            "14",
+            "9",
+            "1",
+            "3",
+            "4",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            3,
+            7,
+            6,
+            1,
+            9
+        ],
+        "Full Responses": "3, 7, 6, 1, 9",
+        "Stripped Response": [
+            "3",
+            "7",
+            "6",
+            "1",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            1,
+            12,
+            14,
+            5
+        ],
+        "Full Responses": "4, 1, 12, 14, 5",
+        "Stripped Response": [
+            "4",
+            "1",
+            "12",
+            "14",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            13,
+            7,
+            2
+        ],
+        "Full Responses": "13, 7, 2",
+        "Stripped Response": [
+            "13",
+            "7",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            6,
+            12,
+            5,
+            11,
+            8
+        ],
+        "Full Responses": "6, 12, 5, 11, 8",
+        "Stripped Response": [
+            "6",
+            "12",
+            "5",
+            "11",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            6,
+            10,
+            7
+        ],
+        "Full Responses": "5, 6, 10, 7",
+        "Stripped Response": [
+            "5",
+            "6",
+            "10",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            8,
+            1
+        ],
+        "Full Responses": "9, 8, 1",
+        "Stripped Response": [
+            "9",
+            "8",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            11,
+            12
+        ],
+        "Full Responses": "5, 11, 12",
+        "Stripped Response": [
+            "5",
+            "11",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            1,
+            2
+        ],
+        "Full Responses": "9, 1, 2",
+        "Stripped Response": [
+            "9",
+            "1",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            2,
+            3
+        ],
+        "Full Responses": "7, 2, 3",
+        "Stripped Response": [
+            "7",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            2
+        ],
+        "Full Responses": "9, 5, 2",
+        "Stripped Response": [
+            "9",
+            "5",
+            "2"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            10,
+            3,
+            9
+        ],
+        "Full Responses": "5, 10, 3, 9",
+        "Stripped Response": [
+            "5",
+            "10",
+            "3",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            9,
+            8
+        ],
+        "Full Responses": "5, 9, 8",
+        "Stripped Response": [
+            "5",
+            "9",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            10,
+            3,
+            9,
+            2,
+            12
+        ],
+        "Full Responses": "4, 10, 3, 9, 2, 12",
+        "Stripped Response": [
+            "4",
+            "10",
+            "3",
+            "9",
+            "2",
+            "12"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            8,
+            14,
+            6,
+            3
+        ],
+        "Full Responses": "8, 14, 6, 3",
+        "Stripped Response": [
+            "8",
+            "14",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            5,
+            13,
+            12,
+            14,
+            7
+        ],
+        "Full Responses": "9, 5, 13, 12, 14, 7",
+        "Stripped Response": [
+            "9",
+            "5",
+            "13",
+            "12",
+            "14",
+            "7"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            11,
+            2,
+            4,
+            14,
+            7,
+            8
+        ],
+        "Full Responses": "11, 2, 4, 7, 8",
+        "Stripped Response": [
+            "11",
+            "2",
+            "4",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            9,
+            11
+        ],
+        "Full Responses": "7, 9, 11",
+        "Stripped Response": [
+            "7",
+            "9",
+            "11"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            5,
+            12,
+            1,
+            13,
+            14,
+            8,
+            9
+        ],
+        "Full Responses": "5, 12, 1, 13, 14, 8, 9",
+        "Stripped Response": [
+            "5",
+            "12",
+            "1",
+            "13",
+            "14",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            8,
+            6,
+            7,
+            5,
+            10
+        ],
+        "Full Responses": "8, 6, 7, 5, 10",
+        "Stripped Response": [
+            "8",
+            "6",
+            "7",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            5,
+            6,
+            1
+        ],
+        "Full Responses": "4, 5, 6, 1",
+        "Stripped Response": [
+            "4",
+            "5",
+            "6",
+            "1"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            2,
+            3,
+            13,
+            7,
+            12,
+            5
+        ],
+        "Full Responses": "2, 3, 13, 7, 12, 5",
+        "Stripped Response": [
+            "2",
+            "3",
+            "13",
+            "7",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            14,
+            9,
+            12,
+            7,
+            10
+        ],
+        "Full Responses": "14, 9, 12, 7, 10",
+        "Stripped Response": [
+            "14",
+            "9",
+            "12",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            7,
+            8,
+            1,
+            14
+        ],
+        "Full Responses": "7, 8, 1, 14",
+        "Stripped Response": [
+            "7",
+            "8",
+            "1",
+            "14"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            9,
+            11,
+            7,
+            8
+        ],
+        "Full Responses": "9, 11, 7, 8",
+        "Stripped Response": [
+            "9",
+            "11",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "Question Type": "Room Desc, Mapping, Room Question",
+        "Correct Answer": [
+            4,
+            7,
+            10,
+            12,
+            5
+        ],
+        "Full Responses": "4, 7, 10, 12, 5",
+        "Stripped Response": [
+            "4",
+            "7",
+            "10",
+            "12",
+            "5"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "cyan",
+            "red",
+            "blue"
+        ],
+        "Full Responses": "Yellow, Grey, Turquoise, Yellow, Cyan, Red, Blue",
+        "Stripped Response": [
+            "Yellow",
+            "Grey",
+            "Turquoise",
+            "Yellow",
+            "Cyan",
+            "Red",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "red",
+            "orange",
+            "beige",
+            "indigo"
+        ],
+        "Full Responses": "Pink, Red, Orange, Beige, Indigo",
+        "Stripped Response": [
+            "Pink",
+            "Red",
+            "Orange",
+            "Beige",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "orange",
+            "beige"
+        ],
+        "Full Responses": "Turquoise, Orange, Beige",
+        "Stripped Response": [
+            "Turquoise",
+            "Orange",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "indigo",
+            "navy",
+            "purple",
+            "cyan",
+            "red"
+        ],
+        "Full Responses": "Yellow, Indigo, Navy, Purple, Cyan, Red",
+        "Stripped Response": [
+            "Yellow",
+            "Indigo",
+            "Navy",
+            "Purple",
+            "Cyan",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "indigo",
+            "beige"
+        ],
+        "Full Responses": "Yellow, Indigo, Beige",
+        "Stripped Response": [
+            "Yellow",
+            "Indigo",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "navy",
+            "green",
+            "turquoise",
+            "indigo"
+        ],
+        "Full Responses": "Orange, Navy, Green, Turquoise, Indigo",
+        "Stripped Response": [
+            "Orange",
+            "Navy",
+            "Green",
+            "Turquoise",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "red",
+            "magenta",
+            "green"
+        ],
+        "Full Responses": "Red, Magenta, Green",
+        "Stripped Response": [
+            "Red",
+            "Magenta",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "turquoise",
+            "blue",
+            "purple",
+            "cyan"
+        ],
+        "Full Responses": "Grey, Turquoise, Blue, Purple, Cyan",
+        "Stripped Response": [
+            "Grey",
+            "Turquoise",
+            "Blue",
+            "Purple",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "green",
+            "turquoise",
+            "indigo"
+        ],
+        "Full Responses": "Beige, Green, Turquoise, Indigo",
+        "Stripped Response": [
+            "Beige",
+            "Green",
+            "Turquoise",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "magenta",
+            "cyan"
+        ],
+        "Full Responses": "Beige, Magenta, Cyan",
+        "Stripped Response": [
+            "Beige",
+            "Magenta",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "purple",
+            "indigo",
+            "grey",
+            "pink"
+        ],
+        "Full Responses": "Purple, Indigo, Grey, Pink",
+        "Stripped Response": [
+            "Purple",
+            "Indigo",
+            "Grey",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "purple",
+            "orange",
+            "cyan",
+            "yellow",
+            "grey"
+        ],
+        "Full Responses": "Beige, Purple, Orange, Yellow, Grey",
+        "Stripped Response": [
+            "Beige",
+            "Purple",
+            "Orange",
+            "Yellow",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "cyan",
+            "purple",
+            "orange"
+        ],
+        "Full Responses": "Grey, Cyan, Purple, Orange",
+        "Stripped Response": [
+            "Grey",
+            "Cyan",
+            "Purple",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "yellow",
+            "navy"
+        ],
+        "Full Responses": "Beige, Yellow, Navy",
+        "Stripped Response": [
+            "Beige",
+            "Yellow",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "navy",
+            "green"
+        ],
+        "Full Responses": "Orange, Navy, Green",
+        "Stripped Response": [
+            "Orange",
+            "Navy",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "red",
+            "turquoise",
+            "yellow",
+            "magenta",
+            "orange"
+        ],
+        "Full Responses": "Red, Turquoise, Yellow, Magenta, Orange",
+        "Stripped Response": [
+            "Red",
+            "Turquoise",
+            "Yellow",
+            "Magenta",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "grey",
+            "red",
+            "purple"
+        ],
+        "Full Responses": "Indigo, Grey, Red, Purple",
+        "Stripped Response": [
+            "Indigo",
+            "Grey",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "orange",
+            "navy",
+            "grey",
+            "indigo"
+        ],
+        "Full Responses": "Beige, Orange, Navy, Grey, Indigo",
+        "Stripped Response": [
+            "Beige",
+            "Orange",
+            "Navy",
+            "Grey",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "navy",
+            "magenta",
+            "grey",
+            "cyan"
+        ],
+        "Full Responses": "Navy, Magenta, Grey, Cyan",
+        "Stripped Response": [
+            "Navy",
+            "Magenta",
+            "Grey",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "red",
+            "beige",
+            "orange",
+            "grey"
+        ],
+        "Full Responses": "Pink, Red, Orange, Grey",
+        "Stripped Response": [
+            "Pink",
+            "Red",
+            "Orange",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "navy",
+            "turquoise",
+            "green",
+            "magenta",
+            "orange"
+        ],
+        "Full Responses": "Navy, Turquoise, Green, Magenta, Orange",
+        "Stripped Response": [
+            "Navy",
+            "Turquoise",
+            "Green",
+            "Magenta",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "magenta",
+            "purple",
+            "cyan",
+            "indigo"
+        ],
+        "Full Responses": "Grey, Magenta, Purple, Cyan, Indigo",
+        "Stripped Response": [
+            "Grey",
+            "Magenta",
+            "Purple",
+            "Cyan",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "beige",
+            "blue"
+        ],
+        "Full Responses": "Indigo, Beige, Blue",
+        "Stripped Response": [
+            "Indigo",
+            "Beige",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "navy",
+            "blue",
+            "yellow",
+            "orange",
+            "red"
+        ],
+        "Full Responses": "Turquoise, Navy, Blue, Orange, Red",
+        "Stripped Response": [
+            "Turquoise",
+            "Navy",
+            "Blue",
+            "Orange",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "navy",
+            "purple"
+        ],
+        "Full Responses": "Pink, Navy, Purple",
+        "Stripped Response": [
+            "Pink",
+            "Navy",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "red",
+            "navy",
+            "pink",
+            "purple",
+            "grey",
+            "turquoise"
+        ],
+        "Full Responses": "Orange, Red, Navy, Pink, Purple, Grey, Turquoise",
+        "Stripped Response": [
+            "Orange",
+            "Red",
+            "Navy",
+            "Pink",
+            "Purple",
+            "Grey",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "turquoise",
+            "yellow",
+            "cyan"
+        ],
+        "Full Responses": "Pink, Turquoise, Yellow, Cyan",
+        "Stripped Response": [
+            "Pink",
+            "Turquoise",
+            "Yellow",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "magenta",
+            "cyan",
+            "purple",
+            "yellow",
+            "grey",
+            "indigo"
+        ],
+        "Full Responses": "Pink, Magenta, Cyan, Purple, Yellow, Grey, Indigo",
+        "Stripped Response": [
+            "Pink",
+            "Magenta",
+            "Cyan",
+            "Purple",
+            "Yellow",
+            "Grey",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "navy",
+            "red",
+            "green",
+            "pink"
+        ],
+        "Full Responses": "Navy, Red, Green, Pink",
+        "Stripped Response": [
+            "Navy",
+            "Red",
+            "Green",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "blue",
+            "grey",
+            "indigo"
+        ],
+        "Full Responses": "Cyan, Blue, Grey, Indigo",
+        "Stripped Response": [
+            "Cyan",
+            "Blue",
+            "Grey",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "turquoise",
+            "purple",
+            "orange"
+        ],
+        "Full Responses": "Pink, Turquoise, Purple, Orange",
+        "Stripped Response": [
+            "Pink",
+            "Turquoise",
+            "Purple",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "turquoise",
+            "orange",
+            "magenta",
+            "green",
+            "beige"
+        ],
+        "Full Responses": "Indigo, Turquoise, Orange, Magenta, Green, Beige",
+        "Stripped Response": [
+            "Indigo",
+            "Turquoise",
+            "Orange",
+            "Magenta",
+            "Green",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "blue",
+            "beige",
+            "purple",
+            "grey"
+        ],
+        "Full Responses": "Blue, Beige, Purple, Grey",
+        "Stripped Response": [
+            "Blue",
+            "Beige",
+            "Purple",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "purple",
+            "turquoise",
+            "blue"
+        ],
+        "Full Responses": "Beige, Green, Navy, Turquoise, Blue",
+        "Stripped Response": [
+            "Beige",
+            "Green",
+            "Navy",
+            "Turquoise",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "green",
+            "cyan",
+            "blue",
+            "orange"
+        ],
+        "Full Responses": "Turquoise, Green, Cyan, Blue, Orange",
+        "Stripped Response": [
+            "Turquoise",
+            "Green",
+            "Cyan",
+            "Blue",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "magenta",
+            "orange",
+            "turquoise",
+            "red",
+            "navy"
+        ],
+        "Full Responses": "Magenta, Orange, Turquoise, Red, Navy",
+        "Stripped Response": [
+            "Magenta",
+            "Orange",
+            "Turquoise",
+            "Red",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "green",
+            "beige",
+            "yellow"
+        ],
+        "Full Responses": "Grey, Green, Beige, Yellow",
+        "Stripped Response": [
+            "Grey",
+            "Green",
+            "Beige",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "red",
+            "pink",
+            "navy",
+            "turquoise",
+            "beige"
+        ],
+        "Full Responses": "Cyan, Red, Pink, Navy, Turquoise, Beige",
+        "Stripped Response": [
+            "Cyan",
+            "Red",
+            "Pink",
+            "Navy",
+            "Turquoise",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "green",
+            "yellow",
+            "indigo"
+        ],
+        "Full Responses": "Green, Yellow, Indigo",
+        "Stripped Response": [
+            "Green",
+            "Yellow",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "cyan",
+            "grey"
+        ],
+        "Full Responses": "Yellow, Cyan, Grey",
+        "Stripped Response": [
+            "Yellow",
+            "Cyan",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "red",
+            "pink",
+            "indigo",
+            "blue",
+            "navy"
+        ],
+        "Full Responses": "Grey, Red, Pink, Indigo, Blue, Navy",
+        "Stripped Response": [
+            "Grey",
+            "Red",
+            "Pink",
+            "Indigo",
+            "Blue",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "magenta",
+            "red"
+        ],
+        "Full Responses": "Turquoise, Magenta, Red",
+        "Stripped Response": [
+            "Turquoise",
+            "Magenta",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "purple",
+            "beige",
+            "grey"
+        ],
+        "Full Responses": "Purple, Beige, Grey",
+        "Stripped Response": [
+            "Purple",
+            "Beige",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "purple",
+            "magenta",
+            "turquoise"
+        ],
+        "Full Responses": "Purple, Magenta, Turquoise",
+        "Stripped Response": [
+            "Purple",
+            "Magenta",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "turquoise",
+            "beige"
+        ],
+        "Full Responses": "Grey, Turquoise, Beige",
+        "Stripped Response": [
+            "Grey",
+            "Turquoise",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "cyan",
+            "beige"
+        ],
+        "Full Responses": "Indigo, Cyan, Beige",
+        "Stripped Response": [
+            "Indigo",
+            "Cyan",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "indigo",
+            "pink"
+        ],
+        "Full Responses": "Cyan, Indigo, Pink",
+        "Stripped Response": [
+            "Cyan",
+            "Indigo",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "orange",
+            "grey",
+            "purple",
+            "yellow"
+        ],
+        "Full Responses": "Cyan, Orange, Grey, Purple, Yellow",
+        "Stripped Response": [
+            "Cyan",
+            "Orange",
+            "Grey",
+            "Purple",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "indigo",
+            "purple",
+            "cyan",
+            "navy"
+        ],
+        "Full Responses": "Orange, Indigo, Purple, Cyan, Navy",
+        "Stripped Response": [
+            "Orange",
+            "Indigo",
+            "Purple",
+            "Cyan",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "yellow",
+            "beige"
+        ],
+        "Full Responses": "Indigo, Yellow, Beige",
+        "Stripped Response": [
+            "Indigo",
+            "Yellow",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "navy",
+            "green",
+            "orange"
+        ],
+        "Full Responses": "Navy, Green, Orange",
+        "Stripped Response": [
+            "Navy",
+            "Green",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "magenta",
+            "orange"
+        ],
+        "Full Responses": "Turquoise, Magenta, Orange",
+        "Stripped Response": [
+            "Turquoise",
+            "Magenta",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "grey",
+            "turquoise",
+            "green"
+        ],
+        "Full Responses": "Orange, Grey, Turquoise, Green",
+        "Stripped Response": [
+            "Orange",
+            "Grey",
+            "Turquoise",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "turquoise",
+            "green"
+        ],
+        "Full Responses": "Orange, Turquoise, Green",
+        "Stripped Response": [
+            "Orange",
+            "Turquoise",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "red",
+            "yellow",
+            "blue",
+            "pink",
+            "purple",
+            "navy"
+        ],
+        "Full Responses": "Red, Yellow, Blue, Pink, Purple, Navy",
+        "Stripped Response": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Pink",
+            "Purple",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "red",
+            "blue",
+            "yellow",
+            "cyan",
+            "purple"
+        ],
+        "Full Responses": "Pink, Red, Blue, Yellow, Cyan, Purple",
+        "Stripped Response": [
+            "Pink",
+            "Red",
+            "Blue",
+            "Yellow",
+            "Cyan",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "beige",
+            "purple"
+        ],
+        "Full Responses": "Orange, Beige, Purple",
+        "Stripped Response": [
+            "Orange",
+            "Beige",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "green",
+            "purple",
+            "beige",
+            "orange"
+        ],
+        "Full Responses": "Green, Purple, Beige, Orange",
+        "Stripped Response": [
+            "Green",
+            "Purple",
+            "Beige",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "green",
+            "magenta"
+        ],
+        "Full Responses": "Beige, Green, Magenta",
+        "Stripped Response": [
+            "Beige",
+            "Green",
+            "Magenta"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "green",
+            "purple",
+            "indigo"
+        ],
+        "Full Responses": "Green, Purple, Indigo",
+        "Stripped Response": [
+            "Green",
+            "Purple",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "red",
+            "purple"
+        ],
+        "Full Responses": "Indigo, Red, Purple",
+        "Stripped Response": [
+            "Indigo",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "orange",
+            "pink",
+            "red",
+            "blue",
+            "grey"
+        ],
+        "Full Responses": "Indigo, Orange, Pink, Red, Blue, Grey",
+        "Stripped Response": [
+            "Indigo",
+            "Orange",
+            "Pink",
+            "Red",
+            "Blue",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "orange",
+            "turquoise",
+            "grey"
+        ],
+        "Full Responses": "Pink, Orange, Turquoise, Grey",
+        "Stripped Response": [
+            "Pink",
+            "Orange",
+            "Turquoise",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "yellow",
+            "green",
+            "red"
+        ],
+        "Full Responses": "Pink, Yellow, Green, Red",
+        "Stripped Response": [
+            "Pink",
+            "Yellow",
+            "Green",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "magenta",
+            "orange",
+            "grey",
+            "cyan",
+            "green"
+        ],
+        "Full Responses": "Magenta, Orange, Grey, Cyan, Green",
+        "Stripped Response": [
+            "Magenta",
+            "Orange",
+            "Grey",
+            "Cyan",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "red",
+            "grey",
+            "orange",
+            "pink"
+        ],
+        "Full Responses": "Red, Grey, Orange, Pink",
+        "Stripped Response": [
+            "Red",
+            "Grey",
+            "Orange",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "blue",
+            "orange",
+            "yellow",
+            "green"
+        ],
+        "Full Responses": "Pink, Blue, Orange, Yellow, Green",
+        "Stripped Response": [
+            "Pink",
+            "Blue",
+            "Orange",
+            "Yellow",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "blue",
+            "grey",
+            "turquoise"
+        ],
+        "Full Responses": "Blue, Grey, Turquoise",
+        "Stripped Response": [
+            "Blue",
+            "Grey",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "beige",
+            "cyan",
+            "red",
+            "purple"
+        ],
+        "Full Responses": "Pink, Beige, Cyan, Red, Purple",
+        "Stripped Response": [
+            "Pink",
+            "Beige",
+            "Cyan",
+            "Red",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "turquoise",
+            "beige",
+            "indigo"
+        ],
+        "Full Responses": "Pink, Turquoise, Beige, Indigo",
+        "Stripped Response": [
+            "Pink",
+            "Turquoise",
+            "Beige",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "green",
+            "red",
+            "purple",
+            "magenta"
+        ],
+        "Full Responses": "Beige, Green, Red, Purple, Magenta",
+        "Stripped Response": [
+            "Beige",
+            "Green",
+            "Red",
+            "Purple",
+            "Magenta"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "magenta",
+            "navy",
+            "pink",
+            "green"
+        ],
+        "Full Responses": "Yellow, Magenta, Navy, Pink, Green",
+        "Stripped Response": [
+            "Yellow",
+            "Magenta",
+            "Navy",
+            "Pink",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "purple",
+            "indigo",
+            "green"
+        ],
+        "Full Responses": "Purple, Indigo, Green",
+        "Stripped Response": [
+            "Purple",
+            "Indigo",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "navy",
+            "purple",
+            "red"
+        ],
+        "Full Responses": "Navy, Purple, Red",
+        "Stripped Response": [
+            "Navy",
+            "Purple",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "beige",
+            "pink",
+            "grey"
+        ],
+        "Full Responses": "Turquoise, Beige, Pink, Grey",
+        "Stripped Response": [
+            "Turquoise",
+            "Beige",
+            "Pink",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "pink",
+            "navy",
+            "turquoise"
+        ],
+        "Full Responses": "Pink, Navy, Turquoise",
+        "Stripped Response": [
+            "Pink",
+            "Navy",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "orange",
+            "blue",
+            "cyan"
+        ],
+        "Full Responses": "Grey, Orange, Blue, Cyan",
+        "Stripped Response": [
+            "Grey",
+            "Orange",
+            "Blue",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "green",
+            "red",
+            "beige"
+        ],
+        "Full Responses": "Green, Red, Beige",
+        "Stripped Response": [
+            "Green",
+            "Red",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "pink",
+            "beige",
+            "green"
+        ],
+        "Full Responses": "Turquoise, Pink, Beige, Green",
+        "Stripped Response": [
+            "Turquoise",
+            "Pink",
+            "Beige",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "orange",
+            "red",
+            "beige"
+        ],
+        "Full Responses": "Orange, Red, Beige",
+        "Stripped Response": [
+            "Orange",
+            "Red",
+            "Beige"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "green",
+            "indigo",
+            "magenta",
+            "cyan"
+        ],
+        "Full Responses": "Turquoise, Green, Indigo, Magenta, Cyan",
+        "Stripped Response": [
+            "Turquoise",
+            "Green",
+            "Indigo",
+            "Magenta",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "grey",
+            "magenta",
+            "turquoise",
+            "indigo",
+            "navy",
+            "pink"
+        ],
+        "Full Responses": "Grey, Magenta, Cyan, Red, Cyan, Indigo, Navy, Pink",
+        "Stripped Response": [
+            "Grey",
+            "Magenta",
+            "Cyan",
+            "Red",
+            "Cyan",
+            "Indigo",
+            "Navy",
+            "Pink"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "beige",
+            "turquoise"
+        ],
+        "Full Responses": "Indigo, Beige, Turquoise",
+        "Stripped Response": [
+            "Indigo",
+            "Beige",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "blue",
+            "orange",
+            "turquoise",
+            "grey"
+        ],
+        "Full Responses": "Blue, Orange, Turquoise, Grey",
+        "Stripped Response": [
+            "Blue",
+            "Orange",
+            "Turquoise",
+            "Grey"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "blue",
+            "orange",
+            "grey",
+            "beige",
+            "turquoise"
+        ],
+        "Full Responses": "Blue, Orange, Grey, Beige, Turquoise",
+        "Stripped Response": [
+            "Blue",
+            "Orange",
+            "Grey",
+            "Beige",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "red",
+            "beige",
+            "purple",
+            "orange",
+            "blue"
+        ],
+        "Full Responses": "Red, Beige, Orange, Blue",
+        "Stripped Response": [
+            "Red",
+            "Beige",
+            "Orange",
+            "Blue"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "cyan",
+            "pink",
+            "indigo"
+        ],
+        "Full Responses": "Turquoise, Pink, Indigo",
+        "Stripped Response": [
+            "Turquoise",
+            "Pink",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "indigo",
+            "orange",
+            "yellow",
+            "navy",
+            "purple"
+        ],
+        "Full Responses": "Indigo, Orange, Navy, Purple",
+        "Stripped Response": [
+            "Indigo",
+            "Orange",
+            "Navy",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "magenta",
+            "navy",
+            "indigo"
+        ],
+        "Full Responses": "Magenta, Navy, Indigo",
+        "Stripped Response": [
+            "Magenta",
+            "Navy",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "turquoise",
+            "grey",
+            "indigo",
+            "navy"
+        ],
+        "Full Responses": "Beige, Turquoise, Grey, Indigo, Navy",
+        "Stripped Response": [
+            "Beige",
+            "Turquoise",
+            "Grey",
+            "Indigo",
+            "Navy"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "blue",
+            "red",
+            "beige",
+            "magenta",
+            "yellow"
+        ],
+        "Full Responses": "Blue, Red, Beige, Magenta, Yellow",
+        "Stripped Response": [
+            "Blue",
+            "Red",
+            "Beige",
+            "Magenta",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "red",
+            "cyan",
+            "green",
+            "orange",
+            "indigo"
+        ],
+        "Full Responses": "Red, Cyan, Green, Orange, Indigo",
+        "Stripped Response": [
+            "Red",
+            "Cyan",
+            "Green",
+            "Orange",
+            "Indigo"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "yellow",
+            "cyan",
+            "grey",
+            "orange",
+            "red"
+        ],
+        "Full Responses": "Yellow, Cyan, Grey, Orange, Red",
+        "Stripped Response": [
+            "Yellow",
+            "Cyan",
+            "Grey",
+            "Orange",
+            "Red"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "beige",
+            "navy",
+            "purple",
+            "yellow"
+        ],
+        "Full Responses": "Beige, Navy, Purple, Yellow",
+        "Stripped Response": [
+            "Beige",
+            "Navy",
+            "Purple",
+            "Yellow"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "purple",
+            "turquoise"
+        ],
+        "Full Responses": "Cyan, Purple, Turquoise",
+        "Stripped Response": [
+            "Cyan",
+            "Purple",
+            "Turquoise"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "navy",
+            "blue",
+            "purple",
+            "orange"
+        ],
+        "Full Responses": "Navy, Blue, Purple, Orange",
+        "Stripped Response": [
+            "Navy",
+            "Blue",
+            "Purple",
+            "Orange"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "green",
+            "yellow",
+            "orange",
+            "cyan"
+        ],
+        "Full Responses": "Green, Yellow, Orange, Cyan",
+        "Stripped Response": [
+            "Green",
+            "Yellow",
+            "Orange",
+            "Cyan"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "red",
+            "yellow",
+            "green"
+        ],
+        "Full Responses": "Turquoise, Red, Yellow, Green",
+        "Stripped Response": [
+            "Turquoise",
+            "Red",
+            "Yellow",
+            "Green"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "cyan",
+            "red",
+            "pink",
+            "navy",
+            "purple"
+        ],
+        "Full Responses": "Cyan, Red, Pink, Navy, Purple",
+        "Stripped Response": [
+            "Cyan",
+            "Red",
+            "Pink",
+            "Navy",
+            "Purple"
+        ]
+    },
+    {
+        "Question Type": "Color Desc, Mapping, Color Question",
+        "Correct Answer": [
+            "turquoise",
+            "green",
+            "red"
+        ],
+        "Full Responses": "Turquoise, Green, Red",
+        "Stripped Response": [
+            "Turquoise",
+            "Green",
+            "Red"
+        ]
+    }
+]
